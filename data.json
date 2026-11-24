@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T00:18+08:00",
+ "updated": "2026-11-25T03:05+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 26
+   "count": 25
   },
   "中文課程/講座": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 3
+   "count": 2
   },
   "新聞：3C": {
    "ok": true,
-   "count": 10
+   "count": 20
   },
   "PTT 禮券板": {
    "ok": true,
@@ -640,18 +640,6 @@
    "src": "Udemy 課程"
   },
   {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-24T10:51+08:00",
-   "expires": null,
-   "extra": "三立新聞",
-   "src": "新聞：蝦皮"
-  },
-  {
    "id": "74b5e2928827b446",
    "source": "新聞",
    "category": "優惠",
@@ -698,6 +686,18 @@
    "expires": null,
    "extra": "LINE TODAY",
    "src": "新聞：3C"
+  },
+  {
+   "id": "23e5468e72b626d8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-24T03:42+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "4eb5a513109a68f7",
@@ -877,7 +877,7 @@
    "published": "2026-11-23T11:32+08:00",
    "expires": null,
    "extra": "TVBS新聞",
-   "src": "新聞：蝦皮"
+   "src": "新聞：3C"
   },
   {
    "id": "c1626180c74779ee",
