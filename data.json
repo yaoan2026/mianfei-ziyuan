@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:05+08:00",
+ "updated": "2026-11-25T06:03+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
@@ -7,15 +7,15 @@
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 3
+   "count": 4
   },
   "PTT 省錢板": {
    "ok": true,
-   "count": 3
+   "count": 4
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 2
+   "count": 3
   },
   "新聞：3C": {
    "ok": true,
@@ -27,6 +27,42 @@
   }
  },
  "items": [
+  {
+   "id": "436b3359e3a5fb7a",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Complete Python and Machine Learning in Financial Analysis",
+   "url": "https://www.couponami.com/machine-learning/python-and-machine-learning-in-financial-analysis",
+   "published": "2026-11-25T06:03+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "2d66cfc64d565b6d",
+   "source": "中文課程/講座",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI時代如何教與學？免費報名2026品學堂閱讀未來國際教育論壇",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQlA3N2UyOXB5NTVUcTNleVRBcGhoTklGbTlPcUZ5b3FBTl9HZkhERkV5aGVpVDBtanJyejRTUzJzdGdjR1J6bTlHWVlWb0FZRjFYVUl1YVU1UmY5M0c2T1E5WVNkNGNBb3FhaGwzdmhpUUtvNi1odGRuYkRwbUttaElPTWJrSW1WajZV?oc=5",
+   "published": "2026-11-25T04:46+08:00",
+   "expires": null,
+   "extra": "翻轉教育",
+   "src": "中文課程/講座"
+  },
+  {
+   "id": "4455d6bc351eac71",
+   "source": "PTT Lifeismoney",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "[情報] 台灣小米 Xiaomi18 Pro Max 早鳥44999起",
+   "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795552061.A.2DA.html",
+   "published": "2026-11-25T04:27+08:00",
+   "expires": null,
+   "extra": "",
+   "src": "PTT 省錢板"
+  },
   {
    "id": "7248675dc422d613",
    "source": "Udemy",
@@ -806,6 +842,18 @@
    "expires": null,
    "extra": "Yahoo新聞",
    "src": "新聞：3C"
+  },
+  {
+   "id": "cc84fc91b6937002",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone 18 新機上市掀換機潮 七大銀行刷卡回饋一次看",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iOHhhSHBLNTVNTGs1eG9VVVBkS2dyRXdaV1JiZTM4OUNxVnh4endUcUF1MWMtQm9Dbkg1Wk5kRnUyS1JuV3QtMl84SkVobTJFVW8xSVFLOV9rd9IBX0FVX3lxTE9VemNrdlJleHJELXljaVJIajhYMWRsTnEwY1pMTGRMUDhtaFR0WERzM2lkVTF5T2tpbzl4UEVraUJkYldaTFZHaG5iYUhkeVpUTVdCTGFoUl9UdHZtdnFJ?oc=5",
+   "published": "2026-11-23T16:00+08:00",
+   "expires": null,
+   "extra": "經濟日報",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "523eeff2909ebbb2",
