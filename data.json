@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-24T12:13+08:00",
+ "updated": "2026-11-24T15:24+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 28
+   "count": 27
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "PTT 省錢板": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "新聞：3C": {
    "ok": true,
-   "count": 17
+   "count": 19
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,102 @@
   }
  },
  "items": [
+  {
+   "id": "817e00a849806c5c",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "RAG Strategy & Execution: Build Enterprise Knowledge Systems",
+   "url": "https://www.couponami.com/business/rag-strategy-execution-build-enterprise-knowledge-systems",
+   "published": "2026-11-24T15:24+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "073955792a492daa",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "MCP for Leaders: Architecting Context-Driven AI",
+   "url": "https://www.couponami.com/machine-learning/mcp-for-leaders-architecting-context-driven-ai",
+   "published": "2026-11-24T15:24+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "a681a2bd0f618bc0",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Certified Chief AI Officer Program: AI Strategy & Governance",
+   "url": "https://www.couponami.com/business/chief-ai-officer-program-lead-ai-strategy-governance",
+   "published": "2026-11-24T15:24+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "f0cfa5a1c23840cc",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Mastering Perplexity AI: Smarter Research, Better Results",
+   "url": "https://www.couponami.com/business/mastering-perplexity-ai-smarter-research-better-results",
+   "published": "2026-11-24T15:24+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "0d899e2cf1bd9b58",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "[Technical] AI Product Manager Explorer Certificate",
+   "url": "https://www.couponami.com/machine-learning/ai-product-manager-explorer-certificate",
+   "published": "2026-11-24T15:24+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "f61534001f606727",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "蘋果官方版黑五優惠11/27登場！回饋近萬元　可惜台灣又沒份",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3bzlWVndsREtrOFd2SmpzdkhVZWZOS3NYMm5OUndHQ002Q0tfWWh4WUp1RWNnVzZYbE5kWUlnXzlDQnV4Y0wyakdWVG7SAVJBVV95cUxNR2dQNDdBUUhQVVlJemJ3NHE1WkRlOUM4TGxVSjJuOFJUeDJueUFXb3JBVzJtUEhwM2xiYVV0VzBDanNvQldsVTJGN2tEYU9CMXZB?oc=5",
+   "published": "2026-11-24T14:55+08:00",
+   "expires": null,
+   "extra": "NOWnews今日新聞",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "86d141e86db3e51d",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五11/24優惠出爐 電視省2.9萬、鑽戒現折1.9萬",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oNE1wZmV2bnY1SFVEZXJ2bVZhc0E1dmxmRWRSMmFVa0JmRVRXWUF2cXdkam9SSVVvWHVPNXcwSlMwUnJvNU4zdjB3NDRpV3RpOUdDQXgwSWxubV9MOHdv?oc=5",
+   "published": "2026-11-24T14:03+08:00",
+   "expires": null,
+   "extra": "民報",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "ecf51ecbc1ddda3d",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "蘋果iPad A16小降1189元 搭11吋Liquid Retina、128GB容量追劇剛好 #特價 (254325)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NNGFfM1pFTVdkbUdQaFJjVVlieXlCX2NuLVJtTThyQ2JNZjJhbGJ2WWE4bUtKcjFhc1JraHRJZWprR3VRcmtCeGdCYTN1Zw?oc=5",
+   "published": "2026-11-24T13:05+08:00",
+   "expires": null,
+   "extra": "Cool3c",
+   "src": "新聞：3C"
+  },
   {
    "id": "798eddca80b24692",
    "source": "Udemy",
@@ -400,6 +496,18 @@
    "src": "新聞：3C"
   },
   {
+   "id": "105a434abdc09b43",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "STUDIO A黑五特賣會又來了！iPhone最低3.1折 7間門市購買方式一次看",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nakRvX2RiU3N4SGprMGkxd05JX3RKQ2JsWmFHMXdOZFhfUUtkdExzOTM2LWFTZld2bVhwMk91WUl3OGZGd2ZqRXdsalFjaEV60gFWQVVfeXFMT01tQmt1Z051M1kyZ2oycjMzYkRyQWpRNFRwY0xMN1kzcXVMOFRnRTJzRUJjUkxIVXhRN0VneU16TXJCa3ZHdHdkT2sxMDVqMWJKejB0VXc?oc=5",
+   "published": "2026-11-24T09:10+08:00",
+   "expires": null,
+   "extra": "UDN",
+   "src": "新聞：3C"
+  },
+  {
    "id": "939ac2dd67809558",
    "source": "新聞",
    "category": "優惠",
@@ -673,6 +781,18 @@
    "published": "2026-11-20T21:47+08:00",
    "expires": null,
    "extra": "蕃新聞",
+   "src": "中文課程/講座"
+  },
+  {
+   "id": "a58d00c762f02863",
+   "source": "中文課程/講座",
+   "category": "課程",
+   "tag": "AI",
+   "title": "企業現在最想找誰？大學生研究生搶先卡位AI 職場！12/5 免費報名- 職場新聞",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVUp2dXVOY0NlTi04TnpBekFFeVJQd1pGeFhURngwcUZaUFg5dDBTZzdQZHZmcE9BUm5xVlE2WndlamQwQnVsYzRhVW5KZ0szZG5ROVlwSXJoU3d3X0RpWWpOZ1BhZDFoakdGcDFLQjZIbmhuZzdkWUF6d0EtdndtQVh2SkpFVzJqdE1DOU11TQ?oc=5",
+   "published": "2026-11-20T16:49+08:00",
+   "expires": null,
+   "extra": "PChome Online 新聞",
    "src": "中文課程/講座"
   },
   {
