@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-24T21:23+08:00",
+ "updated": "2026-11-25T00:18+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 23
+   "count": 26
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 5
+   "count": 3
   },
   "PTT 省錢板": {
    "ok": true,
-   "count": 1
+   "count": 3
   },
   "新聞：蝦皮": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "新聞：3C": {
    "ok": true,
-   "count": 22
+   "count": 10
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,78 @@
   }
  },
  "items": [
+  {
+   "id": "7248675dc422d613",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Plumbing Design AI: COMPLETE Plumbing Design Using ChatGPT",
+   "url": "https://www.couponami.com/machine-learning/plumbing-design-ai-complete-plumbing-design-using-ai-chatgpt",
+   "published": "2026-11-25T00:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "8974f9474935a00a",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects",
+   "url": "https://www.couponami.com/machine-learning/llm-engineer",
+   "published": "2026-11-25T00:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "89c6bd435a5e8553",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Mastering DeepScaleR: Build & Deploy AI Models with Ollama",
+   "url": "https://www.couponami.com/machine-learning/mastering-deepscaler-build-deploy-ai-models-with-ollama",
+   "published": "2026-11-25T00:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "b3bc5af679d1b6f0",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Generative AI for Business Leaders and Executives",
+   "url": "https://www.couponami.com/business/generative-ai-for-business-leaders-and-executives",
+   "published": "2026-11-25T00:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "86c1b5ecfd7937b6",
+   "source": "PTT Lifeismoney",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "[情報] 蝦皮商城三星27吋OLED G5 $7756",
+   "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795536808.A.10A.html",
+   "published": "2026-11-25T00:13+08:00",
+   "expires": null,
+   "extra": "",
+   "src": "PTT 省錢板"
+  },
+  {
+   "id": "1037d10c37fee96e",
+   "source": "PTT Lifeismoney",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "[情報] 蝦皮11/25優惠 100-50全站1張",
+   "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795535430.A.33C.html",
+   "published": "2026-11-24T23:50+08:00",
+   "expires": null,
+   "extra": "",
+   "src": "PTT 省錢板"
+  },
   {
    "id": "07f1287433eaa718",
    "source": "Udemy",
@@ -804,8 +876,8 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtOXUzS2xFVHo1a20tZDZ2OWFJTmZQN1ItbHotbkFScm4xQUJoZVl5emZPSEMxX19hYWpza004SWFUTy1aRDJEY3V2MGxDUQ?oc=5",
    "published": "2026-11-23T11:32+08:00",
    "expires": null,
-   "extra": "TVBS新聞網",
-   "src": "新聞：3C"
+   "extra": "TVBS新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "c1626180c74779ee",
