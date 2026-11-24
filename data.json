@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-24T15:24+08:00",
+ "updated": "2026-11-24T18:16+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 27
+   "count": 26
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "PTT 省錢板": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "新聞：3C": {
    "ok": true,
-   "count": 19
+   "count": 9
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,42 @@
   }
  },
  "items": [
+  {
+   "id": "86d141e86db3e51d",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五11/24優惠出爐 電視省2.9萬、鑽戒現折1.9萬",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oNE1wZmV2bnY1SFVEZXJ2bVZhc0E1dmxmRWRSMmFVa0JmRVRXWUF2cXdkam9SSVVvWHVPNXcwSlMwUnJvNU4zdjB3NDRpV3RpOUdDQXgwSWxubV9MOHdv?oc=5",
+   "published": "2026-11-24T16:45+08:00",
+   "expires": null,
+   "extra": "民報",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "9d16683a8d703ac5",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
+   "published": "2026-11-24T16:39+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "9b6933f914452655",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "快訊／好市多黑五第3波優惠！日本A4和牛入列　筆電省7700元",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wdHduZzNkSkF1dDFtclZ5YmdSMUhPSnZqcmxZTE5CQ3V6Y2otZXNIcVN5djNJUmk4SC15SmU4cFpoXzExLVNiYlB6TFNCMlM3UnhsTU5qVXZRU0hnV0HSAUtBVV95cUxOTjVGMDIwbHRuQ0dZX21mNWtUX2E3dzF5OU55cGtjRDFqMk95YXU3QWZwMEVOeVBOSE5FbVliclNqWXdsNkJydl9iemM?oc=5",
+   "published": "2026-11-24T16:23+08:00",
+   "expires": null,
+   "extra": "ETtoday新聞雲",
+   "src": "新聞：3C"
+  },
   {
    "id": "817e00a849806c5c",
    "source": "Udemy",
@@ -97,18 +133,6 @@
    "published": "2026-11-24T14:55+08:00",
    "expires": null,
    "extra": "NOWnews今日新聞",
-   "src": "新聞：3C"
-  },
-  {
-   "id": "86d141e86db3e51d",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "好市多黑五11/24優惠出爐 電視省2.9萬、鑽戒現折1.9萬",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oNE1wZmV2bnY1SFVEZXJ2bVZhc0E1dmxmRWRSMmFVa0JmRVRXWUF2cXdkam9SSVVvWHVPNXcwSlMwUnJvNU4zdjB3NDRpV3RpOUdDQXgwSWxubV9MOHdv?oc=5",
-   "published": "2026-11-24T14:03+08:00",
-   "expires": null,
-   "extra": "民報",
    "src": "新聞：3C"
   },
   {
@@ -472,6 +496,18 @@
    "src": "Udemy 課程"
   },
   {
+   "id": "23e5468e72b626d8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-24T10:51+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
+  },
+  {
    "id": "74b5e2928827b446",
    "source": "新聞",
    "category": "優惠",
@@ -664,6 +700,18 @@
    "src": "新聞：3C"
   },
   {
+   "id": "72219b81e481442b",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone 13只要7900元！蘋果通路黑五特賣來了　認證機最低3.1折",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mNE10TXFBWG9HUFFxR09tMGEwaVpUeDFXNkRLd1UwcElkS0Q2ZDdyeWhfc1owMFhUMXZ1aFo4cXQ1bzF2MDNmQnY0UF_SAUxBVV95cUxOZjRNdE1xQVhvR1BRcUdPbTBhMGlaVHgxVzZES3dVMHBJZEtENmQ3cnloX3NaMDBYVDF2dWhaOHF0NW8xdjAzZkJ2NFBf?oc=5",
+   "published": "2026-11-23T13:30+08:00",
+   "expires": null,
+   "extra": "自由電子報3C科技",
+   "src": "新聞：3C"
+  },
+  {
    "id": "31cc4d982e38087f",
    "source": "新聞",
    "category": "優惠",
@@ -673,7 +721,7 @@
    "published": "2026-11-23T11:32+08:00",
    "expires": null,
    "extra": "TVBS新聞網",
-   "src": "新聞：3C"
+   "src": "新聞：蝦皮"
   },
   {
    "id": "c1626180c74779ee",
@@ -685,6 +733,18 @@
    "published": "2026-11-23T11:03+08:00",
    "expires": null,
    "extra": "中天新聞網",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "60d21380704a6416",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五開跑！85吋電視「狂省2.3萬」 首日35款優惠一次看",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOMEFlQTN2aURIYnNCdzB5LWdWaWQzME80YnFFWEhPLVFDMENERno1N1lQOFVjcmJpLUZ2SVNBRFhRWUtBMzVFcjhiTF9nVlpRQ1JhMFZNX19jNUM4bVhOTC11NWN0QU5fWmZfdlB0YWNnOHo3NDYwTnQ0c09naTNHY2k5WUtBNEVjR0w1MWduSzNHbVFQS2hOSEtDOXV3amVRcTEzUlNBNEg5QnlLUVhSN1FabG55TW5ScUZUVVJVUkpXX1pCcTEwOVJEd1NNeHE1SjJ4VElmbThjeHdtdUtGVUgyZS1xdWdvTGhzM0NwWm56TE43TVVxUi1KX0VpVkFoNUp5NTRZRE0yRkFmM3lHNFNOdVVxWVBYaGxQTHRBQk5rZmRsWGpBOG5jaVVLakZaWmFWQjZoUkdUSE4tMWlDQ3phOUYwYkxmdEJGdU1hVQ?oc=5",
+   "published": "2026-11-23T11:03+08:00",
+   "expires": null,
+   "extra": "LIFE 生活網",
    "src": "新聞：3C"
   },
   {
@@ -722,18 +782,6 @@
    "expires": null,
    "extra": "商傳媒",
    "src": "新聞：3C"
-  },
-  {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-23T01:11+08:00",
-   "expires": null,
-   "extra": "三立新聞",
-   "src": "新聞：蝦皮"
   },
   {
    "id": "ebb4865269d57fbd",
@@ -805,18 +853,6 @@
    "published": "2026-11-20T09:26+08:00",
    "expires": null,
    "extra": "富聯網",
-   "src": "中文課程/講座"
-  },
-  {
-   "id": "44b120003543b4ef",
-   "source": "中文課程/講座",
-   "category": "課程",
-   "tag": "AI",
-   "title": "微軟AI Agent課程免費上！18堂課程表、繁中版與下載方式一次看",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMG9EdjYwOHEzSHlETEZkdTJob2sxX3Y2YTFST21nRTBFN1ZXQWdfYVYxUUNURTJCMC1teFgzc2ljV3NvcXFqRzd0WHlDV1JsdlRDTGJSUmhiZGV0NWVIY04xQjZzYWFLdDZyNVpwN0luU3hYOUVtamNLZ2ZaRU9HZDFzb0dwUQ?oc=5",
-   "published": "2026-11-19T15:30+08:00",
-   "expires": null,
-   "extra": "數位時代",
    "src": "中文課程/講座"
   },
   {
