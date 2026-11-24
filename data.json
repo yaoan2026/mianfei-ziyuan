@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T18:16+08:00",
+ "updated": "2026-11-24T21:23+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 26
+   "count": 23
   },
   "中文課程/講座": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "新聞：3C": {
    "ok": true,
-   "count": 9
+   "count": 22
   },
   "PTT 禮券板": {
    "ok": true,
@@ -28,15 +28,87 @@
  },
  "items": [
   {
-   "id": "86d141e86db3e51d",
+   "id": "07f1287433eaa718",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "NCA‑AIIO SoAI‑Certified Associate: AI Infrastructure & Ops",
+   "url": "https://www.couponami.com/machine-learning/nca-aiio-nvidia-certified-associate-ai-infrastructure-and-operations",
+   "published": "2026-11-24T21:23+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "78cd96b38aeb3ad6",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI -Ethics, Governance & Other Considerations for Businesses",
+   "url": "https://www.couponami.com/business/ai-ethics-governance-other-considerations-for-businesses",
+   "published": "2026-11-24T21:23+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "7742bc4c5fd6c475",
    "source": "新聞",
    "category": "優惠",
    "tag": "3C",
-   "title": "好市多黑五11/24優惠出爐 電視省2.9萬、鑽戒現折1.9萬",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oNE1wZmV2bnY1SFVEZXJ2bVZhc0E1dmxmRWRSMmFVa0JmRVRXWUF2cXdkam9SSVVvWHVPNXcwSlMwUnJvNU4zdjB3NDRpV3RpOUdDQXgwSWxubV9MOHdv?oc=5",
-   "published": "2026-11-24T16:45+08:00",
+   "title": "好市多黑五第3波優惠！AI筆電省7700元、真絲床包省萬元",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EUU5OMVlQSm80OGh5ZEpXTzdaMVVOMnJjMXZCY0pXLUFSekt2WE9fNU9teENlSGtTWjBLUGJSUWF3ajZyWlRNZlRfazc4Ry15aGR0YzlHcGpOYmMzSnQw?oc=5",
+   "published": "2026-11-24T18:26+08:00",
    "expires": null,
    "extra": "民報",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "d5c7610d4fb5eac0",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "蘋果官方黑五11／27開跑！回饋加碼至近萬元　台灣又沒份",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kdHZ5VjN5cnc2dVJpNloyQkp0bHloMVRZZEZod3d5bTJEZTRhOENkdmJWMDRYbUpCOUt2TGFBM1lKb09uLXV6N2J5TzDSAUxBVV95cUxOZHR2eVYzeXJ3NnVSaTZaMkJKdGx5aDFUWWRGaHd3eW0yRGU0YThDZHZiVjA0WG1KQjlLdkxhQTNZSm9Pbi11ejdieU8w?oc=5",
+   "published": "2026-11-24T17:10+08:00",
+   "expires": null,
+   "extra": "自由電子報3C科技",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "e29cdf10252d9701",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五第3天優惠出爐！和牛、家電、AI筆電等最高省7700元",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUcWpDNERHQXZSR2cyVW9tME5zLWxOc1ljMzFZQmNGaHZGRjMwdEtVTWZLaUEtOWRONVVLcGdDWi1xXzNoV3dqRjFqTVRyQQ?oc=5",
+   "published": "2026-11-24T16:52+08:00",
+   "expires": null,
+   "extra": "記者爆料網",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "a63a8242761f8a51",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五第3天優惠出爐！和牛、家電、AI筆電等最高省7700元",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYWTVzdDQ3TjREUzVaR2loenNBTXRaNXJ0d08tdUdXWDdNVWxRUHhnTldCRE9nVXdZQnZyNDNzVEFNUXcyaGZrTUh4cWN5UQ?oc=5",
+   "published": "2026-11-24T16:52+08:00",
+   "expires": null,
+   "extra": "newsdaily.tw",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "e4ff92c2efdae41d",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多「黑五」11/25優惠出爐！AI筆電、居家用品最高省萬元",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40S0ZfRG5ZSkw0VWUxMS1UYUFTeTNCa0Y0TXQ0TlB6YjVKUHEzV19idWU1azZPOW1Ka295cXlNVjZKamVPOUtqT1VQaUVHUHNIODRpaHBJS01Ba1daLTJCbnRPWnBqNG9oUC0wQVdrWnc2OTh4UmlWWl9xWnFDQQ?oc=5",
+   "published": "2026-11-24T16:50+08:00",
+   "expires": null,
+   "extra": "壹蘋新聞網",
    "src": "新聞：3C"
   },
   {
@@ -604,6 +676,18 @@
    "src": "新聞：3C"
   },
   {
+   "id": "86d141e86db3e51d",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五11/24優惠出爐 電視省2.9萬、鑽戒現折1.9萬",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oNE1wZmV2bnY1SFVEZXJ2bVZhc0E1dmxmRWRSMmFVa0JmRVRXWUF2cXdkam9SSVVvWHVPNXcwSlMwUnJvNU4zdjB3NDRpV3RpOUdDQXgwSWxubV9MOHdv?oc=5",
+   "published": "2026-11-23T18:32+08:00",
+   "expires": null,
+   "extra": "民報",
+   "src": "新聞：3C"
+  },
+  {
    "id": "63b3da94f02f6389",
    "source": "新聞",
    "category": "優惠",
@@ -721,7 +805,7 @@
    "published": "2026-11-23T11:32+08:00",
    "expires": null,
    "extra": "TVBS新聞網",
-   "src": "新聞：蝦皮"
+   "src": "新聞：3C"
   },
   {
    "id": "c1626180c74779ee",
