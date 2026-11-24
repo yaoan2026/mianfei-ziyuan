@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>免費資源雷達</title>
+<style>
+  :root{--bg:#f6f4ef;--card:#fff;--ink:#1d1b18;--mute:#6f6a62;--line:#e4dfd5;--acc:#d9480f;
+    --c-課程:#1c7ed6;--c-禮券:#ae3ec9;--c-優惠:#d9480f}
+  @media (prefers-color-scheme:dark){:root{--bg:#161513;--card:#201f1c;--ink:#ece8e1;--mute:#9b958b;--line:#34312c}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 system-ui,"Noto Sans TC","Microsoft JhengHei",sans-serif}
+  header{max-width:880px;margin:0 auto;padding:28px 16px 8px}
+  h1{margin:0;font-size:26px;letter-spacing:.02em}
+  h1 span{color:var(--acc)}
+  .sub{color:var(--mute);font-size:13px;margin-top:4px}
+  .bar{position:sticky;top:0;z-index:2;background:var(--bg);border-bottom:1px solid var(--line)}
+  .bar-in{max-width:880px;margin:0 auto;padding:10px 16px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .tab{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:6px 12px;border-radius:999px;cursor:pointer;font:inherit;font-size:14px}
+  .tab[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .tags{max-width:880px;margin:0 auto;padding:0 16px 10px;display:flex;gap:6px;flex-wrap:wrap}
+  .tags:empty{display:none}
+  .chip{border:1px dashed var(--line);background:none;color:var(--mute);padding:3px 10px;border-radius:999px;cursor:pointer;font:inherit;font-size:13px}
+  .chip[aria-pressed=true]{border-style:solid;border-color:var(--ink);color:var(--ink)}
+  .tag{border:1px solid var(--cat);color:var(--cat);border-radius:4px;padding:0 5px;font-size:11.5px}
+  .tab b{font-weight:500;opacity:.6;margin-left:4px;font-size:12px}
+  input[type=search]{flex:1;min-width:160px;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+  label.free{font-size:13px;color:var(--mute);display:flex;gap:4px;align-items:center;cursor:pointer}
+  main{max-width:880px;margin:0 auto;padding:12px 16px 40px}
+  .item{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--cat);border-radius:8px;padding:11px 14px;margin:8px 0}
+  .item:hover{border-color:var(--cat)}
+  .t{font-weight:600}
+  .meta{font-size:12.5px;color:var(--mute);margin-top:3px;display:flex;gap:10px;flex-wrap:wrap}
+  .cat{color:var(--cat);font-weight:600}
+  .new{background:var(--acc);color:#fff;font-size:11px;padding:1px 6px;border-radius:4px;margin-right:6px;vertical-align:1px}
+  .soon{color:#e03131;font-weight:600}
+  .empty{color:var(--mute);text-align:center;padding:40px 0}
+  footer{max-width:880px;margin:0 auto;padding:0 16px 40px;color:var(--mute);font-size:12px}
+  footer .bad{color:#e03131}
+</style>
+</head>
+<body>
+<header>
+  <h1>免費資源<span>雷達</span></h1>
+  <div class="sub" id="updated">載入中…</div>
+</header>
+<div class="bar"><div class="bar-in" id="tabs">
+  <input type="search" id="q" placeholder="搜尋標題…">
+  <label class="free"><input type="checkbox" id="freeOnly">只看免費</label>
+</div><div class="tags" id="tags"></div></div>
+<main id="list"></main>
+<footer id="status"></footer>
+<script>
+const CATS = ["全部", "課程", "優惠", "禮券"];
+const TAGS = {"課程": ["AI", "股票", "日文"], "優惠": ["蝦皮", "3C"]};
+let tag = null;
+const FREE = /免費|0元|\$0\b|白拿|贈送|送\d|限免|100% ?OFF|free/i;
+let items = [], cat = "全部";
+const $ = s => document.querySelector(s);
+const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function isFree(i){ return i.source === "Udemy" || FREE.test(i.title); }
+function ago(s){
+  if(!s) return "";
+  const m = (Date.now() - new Date(s)) / 6e4;
+  if(m < 60) return `${Math.max(1, m|0)} 分鐘前`;
+  if(m < 1440) return `${m/60|0} 小時前`;
+  return `${m/1440|0} 天前`;
+}
+function left(s){
+  const h = (new Date(s) - Date.now()) / 36e5;
+  if(h < 0) return null;
+  return h < 48 ? `<span class="soon">剩 ${Math.ceil(h)} 小時</span>` : `到 ${new Date(s).toLocaleDateString("zh-TW")}`;
+}
+
+function tabs(){
+  const box = $("#tabs");
+  box.querySelectorAll(".tab").forEach(b => b.remove());
+  CATS.slice().reverse().forEach(c => {
+    const n = c === "全部" ? items.length : items.filter(i => i.category === c).length;
+    const b = document.createElement("button");
+    b.className = "tab"; b.setAttribute("aria-pressed", c === cat);
+    b.innerHTML = `${c}<b>${n}</b>`;
+    b.onclick = () => { cat = c; tag = null; tabs(); render(); };
+    box.prepend(b);
+  });
+  $("#tags").innerHTML = (TAGS[cat] || []).map(t =>
+    `<button class="chip" aria-pressed="${t === tag}" data-t="${t}">${t}</button>`).join("");
+  $("#tags").querySelectorAll(".chip").forEach(b => b.onclick = () => {
+    tag = tag === b.dataset.t ? null : b.dataset.t; tabs(); render(); });
+}
+
+function render(){
+  const q = $("#q").value.trim().toLowerCase(), fo = $("#freeOnly").checked;
+  const rows = items.filter(i => (cat === "全部" || i.category === cat)
+    && (!tag || (i.tag || "").split("/").includes(tag)) && (!q || i.title.toLowerCase().includes(q)) && (!fo || isFree(i)));
+  $("#list").innerHTML = rows.length ? rows.map(i => {
+    const fresh = i.published && Date.now() - new Date(i.published) < 864e5;
+    const exp = i.expires && left(i.expires);
+    return `<a class="item" href="${esc(i.url)}" target="_blank" rel="noopener" style="--cat:var(--c-${i.category})">
+      <div class="t">${fresh ? '<span class="new">新</span>' : ""}${esc(i.title)}</div>
+      <div class="meta"><span class="cat">${i.category}</span>${i.tag ? i.tag.split("/").map(t => `<span class="tag">${t}</span>`).join("") : ""}<span>${esc(i.source)}</span>
+        ${i.extra ? `<span>${esc(i.extra)}</span>` : ""}<span>${ago(i.published)}</span>${exp ? `<span>${exp}</span>` : ""}</div>
+    </a>`;
+  }).join("") : '<div class="empty">沒有符合的資源</div>';
+}
+
+fetch("data.json?" + Date.now()).then(r => r.json()).then(d => {
+  items = d.items;
+  $("#updated").textContent = `每 3 小時自動更新 · 最後更新 ${new Date(d.updated).toLocaleString("zh-TW", {hour12:false})}`;
+  $("#status").innerHTML = "資料來源：" + Object.entries(d.status).map(([k, v]) =>
+    v.ok ? `${esc(k)}（${v.count}）` : `<span class="bad" title="${esc(v.error)}">${esc(k)}（暫時失敗）</span>`).join("、")
+    + "<br>優惠內容來自各網站公開資訊，使用前請自行確認條件與期限。";
+  tabs(); render();
+}).catch(() => $("#updated").textContent = "資料載入失敗");
+$("#q").oninput = render; $("#freeOnly").onchange = render;
+</script>
+</body>
+</html>
