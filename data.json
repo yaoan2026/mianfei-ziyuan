@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-24T12:01+08:00",
+ "updated": "2026-11-24T12:13+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 26
+   "count": 28
   },
   "中文課程/講座": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 5
   },
   "PTT 省錢板": {
    "ok": true,
    "count": 1
   },
   "新聞：蝦皮": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 3
   },
   "新聞：3C": {
    "ok": true,
@@ -27,6 +27,30 @@
   }
  },
  "items": [
+  {
+   "id": "798eddca80b24692",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Machine Learning & Python Data Science for Business and AI",
+   "url": "https://www.couponami.com/machine-learning/machine-learning-python-data-science-for-business-and-ai",
+   "published": "2026-11-24T12:13+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "e3c3d70cecb3f3d9",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Hands-On ChatGPT AI: Build AI Powered Tools and Workflows",
+   "url": "https://www.couponami.com/machine-learning/hands-on-chatgpt-ai-build-ai-powered-tools-and-workflows",
+   "published": "2026-11-24T12:13+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
   {
    "id": "0b3b076221e51ad0",
    "source": "Udemy",
