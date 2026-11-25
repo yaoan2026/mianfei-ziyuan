@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-26T02:58+08:00",
+ "updated": "2026-11-26T06:02+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 40
+   "count": 49
   },
   "中文課程/講座": {
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 1
+   "count": 2
   },
   "新聞：3C": {
    "ok": true,
@@ -28,6 +28,150 @@
  },
  "items": [
   {
+   "id": "78dc6a0277282523",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "The Complete Guide to AI Infrastructure: Zero to Hero",
+   "url": "https://www.couponami.com/machine-learning/complete-guide-ai-infrastructure",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "0585eb918eda371f",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Agents with Google ADK: The Practical Guide",
+   "url": "https://www.couponami.com/development-tools/google-adk-ai-agents",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "371204166695e9f9",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Break Into AI Without a Technical Background",
+   "url": "https://www.couponami.com/personal-development/break-into-ai-without-a-technical-background",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "fd1525de791527ee",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI/股票",
+   "title": "AI Trading & Crypto Intelligence Masterclass",
+   "url": "https://www.couponami.com/business/ai-trading-crypto-intelligence-masterclass",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "3350fa98f56832dd",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "股票",
+   "title": "The Ultimate Trading & Wealth Mastery Program",
+   "url": "https://www.couponami.com/business/ultimate-trading-wealth-mastery-program",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "92185309e852d055",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Base44 Mastery: Build Enterprise AI Workflow Automations",
+   "url": "https://www.couponami.com/business/base44-mastery-build-enterprise-ai-workflow-automations",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "0391d47dc4247598",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Passive Income Playbook: AI Tools, Automation & More",
+   "url": "https://www.couponami.com/business/passive-income-playbook-ai-tools-automation-more",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "1b4d60b7a5692171",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Coding the Brain: AI & Machine Learning for BCIs",
+   "url": "https://www.couponami.com/machine-learning/coding-the-brain-ai-machine-learning-for-bcis",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "64780477d7aa9995",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Chief AI Officer (CAIO) Leading Enterprise AI Transformation",
+   "url": "https://www.couponami.com/business/chief-ai-officer-caio-leading-enterprise-ai-transformation",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "340a6b9fb14e2f35",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Essential AI Guide: From Fundamentals to Real-World Impact",
+   "url": "https://www.couponami.com/machine-learning/essential-ai-guide-from-fundamentals-to-real-world-impact",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "f9b9dbc772a2753f",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Senior Executive Program: AI, Robotics, and Systems",
+   "url": "https://www.couponami.com/business/senior-executive-program-ai-robotics-and-systems",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "8262af3b17dd792a",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Governance: Strategy, Policy & Responsible Deployment",
+   "url": "https://www.couponami.com/business/ai-governance-strategy-policy-responsible-deployment",
+   "published": "2026-11-26T06:02+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
    "id": "9d16683a8d703ac5",
    "source": "新聞",
    "category": "優惠",
@@ -37,18 +181,6 @@
    "published": "2026-11-26T01:01+08:00",
    "expires": null,
    "extra": "蘋果仁",
-   "src": "新聞：3C"
-  },
-  {
-   "id": "534822d296a8e955",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "小米Redmi Watch 5 Active特價749元 2吋大螢幕、18天續航力、5ATM防水 #智慧手錶(254351)",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90QVN5anV4cGVXMUZNUDQ2MFY0eGc0S09JOTBtME0wUDZLRXdyRENDX2I2OFAwbVZ3TGxySndzT1RieUpIbW93WVdDZkMtUQ?oc=5",
-   "published": "2026-11-26T00:42+08:00",
-   "expires": null,
-   "extra": "Cool3c",
    "src": "新聞：3C"
   },
   {
@@ -1178,6 +1310,18 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
+  },
+  {
+   "id": "534822d296a8e955",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "小米Redmi Watch 5 Active特價749元 2吋大螢幕、18天續航力、5ATM防水 #智慧手錶(254351)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90QVN5anV4cGVXMUZNUDQ2MFY0eGc0S09JOTBtME0wUDZLRXdyRENDX2I2OFAwbVZ3TGxySndzT1RieUpIbW93WVdDZkMtUQ?oc=5",
+   "published": "2026-11-25T12:44+08:00",
+   "expires": null,
+   "extra": "Cool3c",
+   "src": "新聞：3C"
   },
   {
    "id": "9c2d87f7318600c4",
