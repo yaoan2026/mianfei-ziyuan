@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T06:03+08:00",
+ "updated": "2026-11-25T09:22+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 25
+   "count": 24
   },
   "中文課程/講座": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "新聞：3C": {
    "ok": true,
-   "count": 20
+   "count": 23
   },
   "PTT 禮券板": {
    "ok": true,
@@ -62,6 +62,18 @@
    "expires": null,
    "extra": "",
    "src": "PTT 省錢板"
+  },
+  {
+   "id": "8d1e617276a77461",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "黑五購物節開打！燦坤家電、手機、筆電最低5 折 LG 77 吋電視現省逾3 萬元- 消費新聞",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3k1czMyM3psQW9xemxOVTNSamhpazVLZ29tRE13VEZ1ZEI2ZU9fWXhVQzBURW9pTFZEeERHN09LZHQ0QUVMRnoxZ1c1enFFYlRZNGVCVlp1UlEtLVk3eC1EM25CYnI1alZiUnZCT3VIMm5vbU1KZU9TNERtR0NuVUU4RDFBTzg?oc=5",
+   "published": "2026-11-25T01:23+08:00",
+   "expires": null,
+   "extra": "PChome Online 新聞",
+   "src": "新聞：3C"
   },
   {
    "id": "7248675dc422d613",
@@ -770,6 +782,18 @@
    "expires": null,
    "extra": "",
    "src": "PTT 省錢板"
+  },
+  {
+   "id": "00ec382a4678afd8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "隨手拍生活老照片Escura InstantSnap Novo特價1625元支援5種濾鏡、4種構圖框與自拍鏡#數位相機(254308)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xOHV3U2xZdkM2N21TdHVSUnowMzhNZUVaREZVMnE2amxxRDdWUTNqam4zTGhsOTJGYzFjaGVBblNZUWZxZHJkaVcwVWVIZw?oc=5",
+   "published": "2026-11-23T19:01+08:00",
+   "expires": null,
+   "extra": "Cool3c",
+   "src": "新聞：3C"
   },
   {
    "id": "c3e53e8877ebffbd",
