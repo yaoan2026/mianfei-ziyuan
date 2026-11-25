@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T00:17+08:00",
+ "updated": "2026-11-26T02:58+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 52
+   "count": 40
   },
   "中文課程/講座": {
    "ok": true,
@@ -14,12 +14,12 @@
    "count": 4
   },
   "新聞：蝦皮": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 1
   },
   "新聞：3C": {
    "ok": true,
-   "count": 8
+   "count": 21
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,30 @@
   }
  },
  "items": [
+  {
+   "id": "9d16683a8d703ac5",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
+   "published": "2026-11-26T01:01+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "534822d296a8e955",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "小米Redmi Watch 5 Active特價749元 2吋大螢幕、18天續航力、5ATM防水 #智慧手錶(254351)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90QVN5anV4cGVXMUZNUDQ2MFY0eGc0S09JOTBtME0wUDZLRXdyRENDX2I2OFAwbVZ3TGxySndzT1RieUpIbW93WVdDZkMtUQ?oc=5",
+   "published": "2026-11-26T00:42+08:00",
+   "expires": null,
+   "extra": "Cool3c",
+   "src": "新聞：3C"
+  },
   {
    "id": "adda71294895a8dc",
    "source": "Udemy",
@@ -241,18 +265,6 @@
    "published": "2026-11-25T22:21+08:00",
    "expires": null,
    "extra": "LIFE 生活網",
-   "src": "新聞：3C"
-  },
-  {
-   "id": "9d16683a8d703ac5",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
-   "published": "2026-11-25T21:54+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
    "src": "新聞：3C"
   },
   {
@@ -772,18 +784,6 @@
    "src": "Udemy 課程"
   },
   {
-   "id": "ecf51ecbc1ddda3d",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "蘋果iPad A16小降1189元 搭11吋Liquid Retina、128GB容量追劇剛好 #特價 (254325)",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NNGFfM1pFTVdkbUdQaFJjVVlieXlCX2NuLVJtTThyQ2JNZjJhbGJ2WWE4bUtKcjFhc1JraHRJZWprR3VRcmtCeGdCYTN1Zw?oc=5",
-   "published": "2026-11-25T18:46+08:00",
-   "expires": null,
-   "extra": "Cool3c",
-   "src": "新聞：3C"
-  },
-  {
    "id": "8d8a4d0a1f99116d",
    "source": "Udemy",
    "category": "課程",
@@ -1180,24 +1180,24 @@
    "src": "Udemy 課程"
   },
   {
-   "id": "534822d296a8e955",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "小米Redmi Watch 5 Active特價749元 2吋大螢幕、18天續航力、5ATM防水 #智慧手錶(254351)",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90QVN5anV4cGVXMUZNUDQ2MFY0eGc0S09JOTBtME0wUDZLRXdyRENDX2I2OFAwbVZ3TGxySndzT1RieUpIbW93WVdDZkMtUQ?oc=5",
-   "published": "2026-11-25T12:44+08:00",
-   "expires": null,
-   "extra": "Cool3c",
-   "src": "新聞：3C"
-  },
-  {
    "id": "9c2d87f7318600c4",
    "source": "新聞",
    "category": "優惠",
    "tag": "3C",
    "title": "Xiaomi 18 Pro Series 正式開賣！小升大、舊換新雙重優惠最高省萬元　Xiaomi Watch S5 41mm 、 Xiaomi Clip 等智慧穿戴新品同步上市　限時折扣與多重購機禮遇接力登場",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZWJnejdheThjY2Utb3I2RkZKdlJ6d29LMXdNTTRVcEh6eFo4NWRYdHQxSUpsM3MzOVY3M1kzS1pOd3A4WkdBVXBVOHkwTDdXVGswbkJlckxkYjZhRUHSAV5BVV95cUxQU2ViZ3o3YXk4Y2NlLW9yNkZGSnZSendvSzF3TU00VXBIenhaODVkWHR0MUlKbDNzMzlWNzNZM0taTndwOFpHQVVwVTh5MEw3V1RrMG5CZXJMZGI2YUVB?oc=5",
+   "published": "2026-11-25T12:17+08:00",
+   "expires": null,
+   "extra": "3C 達人廖阿輝",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "5a7e6458eeac809e",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "Xiaomi 18 Pro Series 正式開賣！小升大、舊換新雙重優惠最高省萬元　Xiaomi Watch S5 41mm 、 Xiaomi Clip 等智慧穿戴新品同步上市　限時折扣與多重購機禮遇接力登場",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5dVhuV2RLMFF0UXhpQU42d1NNZmwydDdOWDRFRlJfYVU1bmEyWWJyN2pQcUE1YkZfSHI3OS1feFMxZDA1VXN4dnVqV21ILVJVdDZ1ZUl0X1TSAV5BVV95cUxQU2ViZ3o3YXk4Y2NlLW9yNkZGSnZSendvSzF3TU00VXBIenhaODVkWHR0MUlKbDNzMzlWNzNZM0taTndwOFpHQVVwVTh5MEw3V1RrMG5CZXJMZGI2YUVB?oc=5",
    "published": "2026-11-25T12:17+08:00",
    "expires": null,
    "extra": "3C 達人廖阿輝",
@@ -1420,18 +1420,6 @@
    "src": "Udemy 課程"
   },
   {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-24T18:40+08:00",
-   "expires": null,
-   "extra": "三立新聞",
-   "src": "新聞：蝦皮"
-  },
-  {
    "id": "7742bc4c5fd6c475",
    "source": "新聞",
    "category": "優惠",
@@ -1466,6 +1454,18 @@
    "expires": null,
    "extra": "LINE TODAY",
    "src": "新聞：3C"
+  },
+  {
+   "id": "23e5468e72b626d8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-24T17:55+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "24e4406d4f37d69c",
@@ -1621,6 +1621,18 @@
    "published": "2026-11-24T14:55+08:00",
    "expires": null,
    "extra": "NOWnews今日新聞",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "ecf51ecbc1ddda3d",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "蘋果iPad A16小降1189元 搭11吋Liquid Retina、128GB容量追劇剛好 #特價 (254325)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NNGFfM1pFTVdkbUdQaFJjVVlieXlCX2NuLVJtTThyQ2JNZjJhbGJ2WWE4bUtKcjFhc1JraHRJZWprR3VRcmtCeGdCYTN1Zw?oc=5",
+   "published": "2026-11-24T13:05+08:00",
+   "expires": null,
+   "extra": "Cool3c",
    "src": "新聞：3C"
   },
   {
