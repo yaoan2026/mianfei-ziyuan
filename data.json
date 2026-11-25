@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:13+08:00",
+ "updated": "2026-11-25T15:28+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 2
+   "count": 3
   },
   "新聞：3C": {
    "ok": true,
-   "count": 11
+   "count": 23
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,78 @@
   }
  },
  "items": [
+  {
+   "id": "c31bc2718b5a665b",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "股票",
+   "title": "Mastering Adobe Illustrator Projects: Build Your Portfolio",
+   "url": "https://www.couponami.com/graphic-design/mastering-adobe-illustrator-projects-build-your-portfolio",
+   "published": "2026-11-25T15:28+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "65f4d7a001a4be4b",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Prompt Engineering & AI from Scratch: ChatGPT",
+   "url": "https://www.couponami.com/machine-learning/prompt-engineering-ai-from-scratch-chatgpt",
+   "published": "2026-11-25T15:28+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "c867f4915bee3e3c",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Python Data Science and Machine Learning Made Easy",
+   "url": "https://www.couponami.com/machine-learning/python-data-science-and-machine-learning-made-easy",
+   "published": "2026-11-25T15:28+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "534822d296a8e955",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "小米Redmi Watch 5 Active特價749元 2吋大螢幕、18天續航力、5ATM防水 #智慧手錶(254351)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90QVN5anV4cGVXMUZNUDQ2MFY0eGc0S09JOTBtME0wUDZLRXdyRENDX2I2OFAwbVZ3TGxySndzT1RieUpIbW93WVdDZkMtUQ?oc=5",
+   "published": "2026-11-25T12:44+08:00",
+   "expires": null,
+   "extra": "Cool3c",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "9c2d87f7318600c4",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "Xiaomi 18 Pro Series 正式開賣！小升大、舊換新雙重優惠最高省萬元　Xiaomi Watch S5 41mm 、 Xiaomi Clip 等智慧穿戴新品同步上市　限時折扣與多重購機禮遇接力登場",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTZWJnejdheThjY2Utb3I2RkZKdlJ6d29LMXdNTTRVcEh6eFo4NWRYdHQxSUpsM3MzOVY3M1kzS1pOd3A4WkdBVXBVOHkwTDdXVGswbkJlckxkYjZhRUHSAV5BVV95cUxQU2ViZ3o3YXk4Y2NlLW9yNkZGSnZSendvSzF3TU00VXBIenhaODVkWHR0MUlKbDNzMzlWNzNZM0taTndwOFpHQVVwVTh5MEw3V1RrMG5CZXJMZGI2YUVB?oc=5",
+   "published": "2026-11-25T12:17+08:00",
+   "expires": null,
+   "extra": "3C 達人廖阿輝",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "2a6c46fa2dba032e",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "小米18 Pro系列開賣了！39,999元起、免加價直升512GB",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRSEJoellOOWg1ckRlUkN6U2dkUzh0QlN4YUdRX2UyaDh6VUZ5N0NrNHh4YkZsb1lLeTNKY3o0Qml4MFF3RFBzQWJRZ1nSAUxBVV95cUxQUUhCaHpZTjloNXJEZVJDelNnZFM4dEJTeGFHUV9lMmg4elVGeTdDazR4eGJGbG9ZS3kzSmN6NEJpeDBRd0RQc0FiUWdZ?oc=5",
+   "published": "2026-11-25T12:00+08:00",
+   "expires": null,
+   "extra": "自由電子報3C科技",
+   "src": "新聞：3C"
+  },
   {
    "id": "47c3bff4fc388d14",
    "source": "中文課程/講座",
@@ -38,6 +110,18 @@
    "expires": null,
    "extra": "TVBS 健康2.0",
    "src": "中文課程/講座"
+  },
+  {
+   "id": "99b77aef5973b143",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "華碩搶攻菲律賓黑五商機 商用筆電最高折萬披索",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPdWoyMkJGOUJyTUphLWVtR1RxYWlldnk0cE45MXFxY0Vla0REa213SHY4aGZzWlFoSXM4cDVFWEVyYnp1V0ltS2dpVmYzU2xqZENkX0h1djV6UGROak92YXhWWk44VVNJRmV1cWtlSEM1aUdhSE5CU1UwSnN5aU84OGZZN2haRXFhMmtzS0I4b01iMmd6UnRob1Q2TUhrcU42d3RETHhzblJlQkFWLVFyTHJwUzVURndkMlBfT1hqTG1zdlRENmFhamoxckF1cmhwTnpVWG51SGRtb2ZFcVpBQ3VHbi1IS2tFMUNxQVdWM083Q2ZVb3Q4bjNCdGc0V2RtcDVCbk94dUlzUUJNY21DT3hYYmE2aXlQZ19QODhsZ1B4a21xRXZNTEc5b08tTWFhcmdWdHdjbmxZSXVZZFUwa2FReUQ?oc=5",
+   "published": "2026-11-25T08:57+08:00",
+   "expires": null,
+   "extra": "LIFE 生活網",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "436b3359e3a5fb7a",
@@ -58,6 +142,18 @@
    "tag": "AI",
    "title": "AI時代如何教與學？免費報名2026品學堂閱讀未來國際教育論壇",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQlA3N2UyOXB5NTVUcTNleVRBcGhoTklGbTlPcUZ5b3FBTl9HZkhERkV5aGVpVDBtanJyejRTUzJzdGdjR1J6bTlHWVlWb0FZRjFYVUl1YVU1UmY5M0c2T1E5WVNkNGNBb3FhaGwzdmhpUUtvNi1odGRuYkRwbUttaElPTWJrSW1WajZV?oc=5",
+   "published": "2026-11-25T04:46+08:00",
+   "expires": null,
+   "extra": "翻轉教育",
+   "src": "中文課程/講座"
+  },
+  {
+   "id": "1a385564df076393",
+   "source": "中文課程/講座",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI時代如何教與學？免費報名2026品學堂閱讀未來國際教育論壇",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5paWd5OUxDRTZUMUNFUC1UQXlqbWFBZF8xYlZJeEMyM0ZHMVp4b2d1Tzlaa1dYTl9zNkR3akN2emJtS1JlMlVGTHVlbDRHdHlVVm1kRUR5aGFGdm8?oc=5",
    "published": "2026-11-25T04:46+08:00",
    "expires": null,
    "extra": "翻轉教育",
@@ -205,6 +301,42 @@
    "published": "2026-11-24T18:26+08:00",
    "expires": null,
    "extra": "民報",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "42873de3f48eab96",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五第3波優惠！AI筆電省7700元、真絲床包省萬元",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPODVEc3h5RjNOTExJMDZQVUE4c0xEUERFZmRobnVaT2tQRWdDbmtUOVBiYlZ0b0ZQNlliWjlTLUNJVWRUeUtmRkdJNHFRWlR4US0zRjRNS1ZmTDNwTlpjdGpPNGVSMnJzdXpCMXRXUllVSU16M0hyaUVlM1dET3VJVjRkS0thREk4YXExLWtvVTJSTlJKMkQ3LTJsNzlSc2xpbUY2YzQ1ZGd4UG1YSVdOaUVwWmFndHg0d2R3dHltUzBLaVlvQmU0XzhPNVhUcDY2MnNhbVE3QVBDWC1mdlkyaVppbW9GQkN2d2FjQWNMbzlvZkVtMEc3aEZkeUxrUnR4VFNyN3p1WEJ3ZWZROHMxZGxZZGpGNkVwMXQwN1d6ckFUMVdweFNTajJVcWZZSU5jQ080UVJuU2Rta1VDZWxLZnpVdWpNWDc4SEkwcmtURQ?oc=5",
+   "published": "2026-11-24T18:26+08:00",
+   "expires": null,
+   "extra": "Yahoo新聞",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "fd52320480c83143",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五第三天「清單曝光」 日本A4和牛、AI筆電、電動滑板車「折扣超殺」 | 太報",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaDJCT2Z0c0xZTm1DMFJzcVNQODJPWGNGdktWMENJUUZ1Nmlqam96eTMtUGdRa1pLMXVOMjlaWm5ueWlvWm44Y3g0WHd3LUxua0x4SEhR?oc=5",
+   "published": "2026-11-24T18:00+08:00",
+   "expires": null,
+   "extra": "LINE TODAY",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "24e4406d4f37d69c",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "黑五購物節開打！燦坤家電、手機、筆電最低 5 折 LG 77 吋電視現省逾 3 萬元",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnaVUtczl3WXM1RHVxbzB1UmN1TUI1NGdpeDN5U210Q0NrVGJvQVBGNVVScGZId2ZhT0tJSlJVSV8xTU81c3JoY1hVYw?oc=5",
+   "published": "2026-11-24T17:19+08:00",
+   "expires": null,
+   "extra": "樂聯網",
    "src": "新聞：3C"
   },
   {
@@ -744,7 +876,7 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nakRvX2RiU3N4SGprMGkxd05JX3RKQ2JsWmFHMXdOZFhfUUtkdExzOTM2LWFTZld2bVhwMk91WUl3OGZGd2ZqRXdsalFjaEV60gFWQVVfeXFMT01tQmt1Z051M1kyZ2oycjMzYkRyQWpRNFRwY0xMN1kzcXVMOFRnRTJzRUJjUkxIVXhRN0VneU16TXJCa3ZHdHdkT2sxMDVqMWJKejB0VXc?oc=5",
    "published": "2026-11-24T09:10+08:00",
    "expires": null,
-   "extra": "UDN",
+   "extra": "udn",
    "src": "新聞：3C"
   },
   {
