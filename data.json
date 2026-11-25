@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-25T09:22+08:00",
+ "updated": "2026-11-25T12:13+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 24
+   "count": 22
   },
   "中文課程/講座": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 3
+   "count": 2
   },
   "新聞：3C": {
    "ok": true,
-   "count": 23
+   "count": 11
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,18 @@
   }
  },
  "items": [
+  {
+   "id": "47c3bff4fc388d14",
+   "source": "中文課程/講座",
+   "category": "課程",
+   "tag": "AI",
+   "title": "搭捷運看30秒影片賺點數！再抽2000元禮券 10堂免費AI課程曝光",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41eWhhUG1fdWgtVmZhc1lvN1NhQm4yb0xaSllUaWFnUVBKbWp3UXBDQ3JjMlUtR1YxeU1zSmpQakdVMExzUmZJYlI4b2VDc2tMWEE?oc=5",
+   "published": "2026-11-25T10:50+08:00",
+   "expires": null,
+   "extra": "TVBS 健康2.0",
+   "src": "中文課程/講座"
+  },
   {
    "id": "436b3359e3a5fb7a",
    "source": "Udemy",
@@ -62,6 +74,18 @@
    "expires": null,
    "extra": "",
    "src": "PTT 省錢板"
+  },
+  {
+   "id": "23e5468e72b626d8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-25T03:31+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "8d1e617276a77461",
@@ -736,18 +760,6 @@
    "src": "新聞：3C"
   },
   {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-24T03:42+08:00",
-   "expires": null,
-   "extra": "三立新聞",
-   "src": "新聞：蝦皮"
-  },
-  {
    "id": "4eb5a513109a68f7",
    "source": "新聞",
    "category": "優惠",
@@ -1069,18 +1081,6 @@
    "published": "2026-11-20T16:49+08:00",
    "expires": null,
    "extra": "PChome Online 新聞",
-   "src": "中文課程/講座"
-  },
-  {
-   "id": "765f98732e2fac15",
-   "source": "中文課程/講座",
-   "category": "課程",
-   "tag": "股票",
-   "title": "【免費台股講座】台北12/1、高雄12/8登場",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRC1XSUViVVNIcDBTSE5vaWtBY3o1RWpzMWdtQmN2UnFUUVh6ODRDaW9vWFlMbDBCZzRDVmN5WXA3WEtIWXh4SmZNdUtoTFdqWUdFckhwUHhpdUxfejA3QWxsT0k5MGRXSXRSM3NJSndIem9FT05aLWdsVDNycmt6UHE3Xzh4X2ty?oc=5",
-   "published": "2026-11-20T09:26+08:00",
-   "expires": null,
-   "extra": "富聯網",
    "src": "中文課程/講座"
   },
   {
