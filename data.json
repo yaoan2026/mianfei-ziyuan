@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-25T15:28+08:00",
+ "updated": "2026-11-25T18:18+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 22
+   "count": 38
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 4
+   "count": 7
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 3
+   "count": 2
   },
   "新聞：3C": {
    "ok": true,
-   "count": 23
+   "count": 20
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,354 @@
   }
  },
  "items": [
+  {
+   "id": "8d8a4d0a1f99116d",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Agents for Non-Coders",
+   "url": "https://www.couponami.com/machine-learning/ai-agents-for-non-coders",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "82c6e5f3272d14e6",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AB-100: Microsoft Certified: Agentic AI Business Solutions",
+   "url": "https://www.couponami.com/business/ab-100-microsoft-certified-agentic-ai-business-solutions-h",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "d5dc14ebfc7e3aa3",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Literacy for All Employees",
+   "url": "https://www.couponami.com/business/ai-literacy-for-all-employees-v",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "bc909069af39611a",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI for Cloud Infrastructure: Automating AWS with StationOps",
+   "url": "https://www.couponami.com/aws/ai-for-cloud-infrastructure-automating-aws-with-stationops",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "9ce64ed1487afc82",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Governance: Build a Managed AI System",
+   "url": "https://www.couponami.com/business/ai-governance-build-a-managed-ai-system",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "124cb2597d33635a",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI-Powered Social Media Marketing: ChatGPT and 100 AI Tools",
+   "url": "https://www.couponami.com/marketing/social-media-marketing-strategy-course",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "00ff1e84df3c978e",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI-Powered Admin: Microsoft Copilot for SysAdmins",
+   "url": "https://www.couponami.com/business/ai-powered-admin-microsoft-copilot-for-sysadmins",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "cada9f715d5ba52d",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI-Powered Design",
+   "url": "https://www.couponami.com/graphic-design/ai-powered-design",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "ddf2df2733f5220d",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI-Powered Project Management with ClickUp",
+   "url": "https://www.couponami.com/business/ai-powered-project-management-with-clickup",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "49dfecfe02e1e4bf",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI-Driven Market Analysis & Prediction",
+   "url": "https://www.couponami.com/development-tools/ai-driven-market-analysis-prediction-av",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "3fcb1dbfd7894f7c",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI for Customer Experience",
+   "url": "https://www.couponami.com/business/ai-for-customer-experience",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "e4258b09bcf7f85d",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI for Creative Leaders",
+   "url": "https://www.couponami.com/business/ai-for-creative-leaders-d",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "e2763fef8e1a2ea7",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI for Creative Marketing",
+   "url": "https://www.couponami.com/business/ai-for-creative-marketing",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "ec6047f0f4ec55b4",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Image Generation for Business & Marketing",
+   "url": "https://www.couponami.com/business/ai-image-generation-for-business-marketing",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "2143b184c531c399",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI-Powered Email Marketing: A Complete Guide",
+   "url": "https://www.couponami.com/marketing/ai-powered-email-marketing-a-complete-guide",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "3d7d8a3c03bc6aa6",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI-Powered SEO Audit: Diagnose, Optimize and Rank Fast",
+   "url": "https://www.couponami.com/marketing/ai-powered-seo-audit",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "3c65092d78d8d34a",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "The Ultimate Gamma Guide: Master AI Presentation Creation",
+   "url": "https://www.couponami.com/business/the-ultimate-gamma-guide-master-ai-presentation-creation",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "9702296424c613e1",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI to Empower your Marketing Team",
+   "url": "https://www.couponami.com/marketing/ai-to-empower-your-marketing-team",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "b072ade067b611e8",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI-Powered Tutorial Creation: Make Videos with Trupeer",
+   "url": "https://www.couponami.com/business/ai-powered-tutorial-creation-make-videos-with-trupeer",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "0b3b640de2bf8437",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Agentic Coding: Full-Stack Java Apps with Cursor and Copilot",
+   "url": "https://www.couponami.com/java/agentic-coding-full-stack-java-apps-with-cursor-and-copilot",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "eefc4f798fc29f4f",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Business Analysis for Executives with Microsoft Copilot",
+   "url": "https://www.couponami.com/business/business-analysis-for-executives-with-microsoft-copilot",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "13d1cff4001dda44",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Brand Management with Generative AI",
+   "url": "https://www.couponami.com/business/brand-management-with-generative-ai-q",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "a59cbfde6bfcf1aa",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Building AI Integrations with Model Context Protocol (MCP)",
+   "url": "https://www.couponami.com/machine-learning/building-ai-integrations-with-model-context-protocol-mcp",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "550be3179ad3a88c",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Building AI Voice Agents with ElevenLabs",
+   "url": "https://www.couponami.com/machine-learning/building-ai-voice-agents-with-elevenlabs",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "419854568cdf5b76",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Building Basic AI Agents and Custom GPTs",
+   "url": "https://www.couponami.com/development-tools/building-basic-ai-agents-and-custom-gpts",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "78cecfdecdb30347",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "TensorFlow Course: Basic to Advanced Neural Network & Beyond",
+   "url": "https://www.couponami.com/machine-learning/tensorflow-course-basic-to-advanced-neural-network-beyond",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "8ae2d3a024d44b91",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Microsoft Copilot for HR Teams: Prompts, Workflows, Agents",
+   "url": "https://www.couponami.com/business/microsoft-copilot-for-hr-teams-prompts-workflows-agents",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "bf0cbccd47e6cf42",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI HR agents: no-code HR automation on ChatGPT and more [EN]",
+   "url": "https://www.couponami.com/business/ai-hr-agents-no-code-hr-automation-on-chatgpt-and-more-en",
+   "published": "2026-11-25T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "740f85c7dfc71bdb",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/26 優惠清單！Acer AI 筆電省 7200、鑽石耳環最高省 1.4 萬",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rM1diSGVNWU9KVmZxM093T1g2VUNqbFQ4N2lZY24zTm5Xbm9QbWtldm93WGtpTFRTQnhPNHBpb1hXUXJRcUZoTFlHRjk?oc=5",
+   "published": "2026-11-25T16:19+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
   {
    "id": "c31bc2718b5a665b",
    "source": "Udemy",
@@ -106,7 +454,7 @@
    "tag": "AI",
    "title": "搭捷運看30秒影片賺點數！再抽2000元禮券 10堂免費AI課程曝光",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41eWhhUG1fdWgtVmZhc1lvN1NhQm4yb0xaSllUaWFnUVBKbWp3UXBDQ3JjMlUtR1YxeU1zSmpQakdVMExzUmZJYlI4b2VDc2tMWEE?oc=5",
-   "published": "2026-11-25T10:50+08:00",
+   "published": "2026-11-25T10:53+08:00",
    "expires": null,
    "extra": "TVBS 健康2.0",
    "src": "中文課程/講座"
@@ -122,6 +470,18 @@
    "expires": null,
    "extra": "LIFE 生活網",
    "src": "新聞：蝦皮"
+  },
+  {
+   "id": "ecf51ecbc1ddda3d",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "蘋果iPad A16小降1189元 搭11吋Liquid Retina、128GB容量追劇剛好 #特價 (254325)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NNGFfM1pFTVdkbUdQaFJjVVlieXlCX2NuLVJtTThyQ2JNZjJhbGJ2WWE4bUtKcjFhc1JraHRJZWprR3VRcmtCeGdCYTN1Zw?oc=5",
+   "published": "2026-11-25T06:44+08:00",
+   "expires": null,
+   "extra": "Cool3c",
+   "src": "新聞：3C"
   },
   {
    "id": "436b3359e3a5fb7a",
@@ -266,6 +626,18 @@
    "expires": null,
    "extra": "",
    "src": "PTT 省錢板"
+  },
+  {
+   "id": "b83c4a8df67ea9fc",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "雙11開跑！小米低至6折再推新手機、石頭科技3折 　TP-Link全下殺",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1OGFzZVpWMjB6ZFpJeEIxZEZQVTg2aHFocmxycmtCbE5ySjJtbHdFNTF0TEdUZmNnczBOV3ljdFgyaWoxWS1mVNIBTEFVX3lxTE5TNWtJcjdIblpPZzBVX3FIZ1d5S1NuMjhOYW8tLXVUdTJfcmxRbFZManlEMkJESEFoS3dsb0FrdmlqZWZtc25iMmhWdlQ?oc=5",
+   "published": "2026-11-24T22:37+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "07f1287433eaa718",
@@ -481,18 +853,6 @@
    "published": "2026-11-24T14:55+08:00",
    "expires": null,
    "extra": "NOWnews今日新聞",
-   "src": "新聞：3C"
-  },
-  {
-   "id": "ecf51ecbc1ddda3d",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "蘋果iPad A16小降1189元 搭11吋Liquid Retina、128GB容量追劇剛好 #特價 (254325)",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NNGFfM1pFTVdkbUdQaFJjVVlieXlCX2NuLVJtTThyQ2JNZjJhbGJ2WWE4bUtKcjFhc1JraHRJZWprR3VRcmtCeGdCYTN1Zw?oc=5",
-   "published": "2026-11-24T13:05+08:00",
-   "expires": null,
-   "extra": "Cool3c",
    "src": "新聞：3C"
   },
   {
@@ -876,7 +1236,7 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nakRvX2RiU3N4SGprMGkxd05JX3RKQ2JsWmFHMXdOZFhfUUtkdExzOTM2LWFTZld2bVhwMk91WUl3OGZGd2ZqRXdsalFjaEV60gFWQVVfeXFMT01tQmt1Z051M1kyZ2oycjMzYkRyQWpRNFRwY0xMN1kzcXVMOFRnRTJzRUJjUkxIVXhRN0VneU16TXJCa3ZHdHdkT2sxMDVqMWJKejB0VXc?oc=5",
    "published": "2026-11-24T09:10+08:00",
    "expires": null,
-   "extra": "udn",
+   "extra": "UDN",
    "src": "新聞：3C"
   },
   {
@@ -1201,18 +1561,6 @@
    "published": "2026-11-20T21:47+08:00",
    "expires": null,
    "extra": "蕃新聞",
-   "src": "中文課程/講座"
-  },
-  {
-   "id": "a58d00c762f02863",
-   "source": "中文課程/講座",
-   "category": "課程",
-   "tag": "AI",
-   "title": "企業現在最想找誰？大學生研究生搶先卡位AI 職場！12/5 免費報名- 職場新聞",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVUp2dXVOY0NlTi04TnpBekFFeVJQd1pGeFhURngwcUZaUFg5dDBTZzdQZHZmcE9BUm5xVlE2WndlamQwQnVsYzRhVW5KZ0szZG5ROVlwSXJoU3d3X0RpWWpOZ1BhZDFoakdGcDFLQjZIbmhuZzdkWUF6d0EtdndtQVh2SkpFVzJqdE1DOU11TQ?oc=5",
-   "published": "2026-11-20T16:49+08:00",
-   "expires": null,
-   "extra": "PChome Online 新聞",
    "src": "中文課程/講座"
   },
   {
