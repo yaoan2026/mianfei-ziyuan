@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-26T15:26+08:00",
+ "updated": "2026-11-26T18:18+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 24
+   "count": 26
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 4
+   "count": 7
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 5
+   "count": 1
   },
   "新聞：3C": {
    "ok": true,
-   "count": 11
+   "count": 20
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,90 @@
   }
  },
  "items": [
+  {
+   "id": "debf18fb09cf780a",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "DeepSeek AI Masterclass: AI Search, Insights & Productivity",
+   "url": "https://www.couponami.com/machine-learning/deepseek-ai-masterclass-ai-search-insights-productivity",
+   "published": "2026-11-26T18:18+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "41ef526813c2f5d9",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "小米Watch S5 41mm新品折500元 1.32吋AMOLED螢幕、支援Google錢包、最長14天續航力#nfc (254388)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05NTk3ZzhoOWw3ZzlvN2NxSkoxME8wX0hTeUUtMHdvVVB2aU5kUTM0V2VEbU04dXpld0VRMEMyRF9fTVpoLTY5aFY4blEzZw?oc=5",
+   "published": "2026-11-26T18:08+08:00",
+   "expires": null,
+   "extra": "Cool3c",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "740f85c7dfc71bdb",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/26 優惠清單！Acer AI 筆電省 7200、鑽石耳環最高省 1.4 萬",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rM1diSGVNWU9KVmZxM093T1g2VUNqbFQ4N2lZY24zTm5Xbm9QbWtldm93WGtpTFRTQnhPNHBpb1hXUXJRcUZoTFlHRjk?oc=5",
+   "published": "2026-11-26T17:03+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "9d16683a8d703ac5",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
+   "published": "2026-11-26T16:45+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "3b3e0cf03498b6f0",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "Coupang酷澎黑五3C加碼優惠！3C、保健品齊下殺 火箭速配最快隔日到貨",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43Rm1NTTE5cDdqS1dtRHV3ZUpxVmh0WGlhbzNFOXNLbGI5NzRyWjFrV2lYU0ZSVldHMHAzRXh4c3dxXzV4T250MEM0S0E3OGtlUm9zZjdJUmFub0FPMk44eE50aHRtUTN6SS15S1dmLTd0cUs5YVBCN2gwTG9RZw?oc=5",
+   "published": "2026-11-26T16:40+08:00",
+   "expires": null,
+   "extra": "壹蘋新聞網",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "20b42a0a63f9a4b1",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五Day 5優惠推薦一次看 掃地機器人、劇院組、電競筆電省超大",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tdXZCbkRUVFZybjlFdmRxMnRLSTUwTFBkYkRIcGQ2aHpjTDluZGItQ0RUbENuWjhYZlloMnlCTHI3cHJtcllOQ0hGeWRFN2ZSRTg40gFYQVVfeXFMTTdRd09naWpCdDl2VWxGcGZFaUVMX1lxS3lWOEIwYjN0Q0dEckdDUWp5RFFNT21vSk9VbFM5QWJQVFoxVkJCbUZldWVWQ25xLU1FTmRnZ1ozdg?oc=5",
+   "published": "2026-11-26T16:32+08:00",
+   "expires": null,
+   "extra": "UDN",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "b914fc4aa0fc554a",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "快訊／好市多黑五第5波優惠公布　筆電省1.3萬、雞里肌肉入列",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oY1BNLVBqQ3ROdld3eFZMRjU0YXRHSE9yamVfN2U2S2FmN29rQWdLc3ZiOVdvZWNYdlA4ZFVJWklmMXM5emY5VmF2VDFNb1ZxYmEzZk5xTzVTQ3hUOWfSAUtBVV95cUxQeUI5bEdGLTJseUNWaFk1eTlJU3lCc0lKcWdOX3ppRG5JRm9QSlRnM09XMVB6WnFXY1ZETWg2RW5Mc3Q5eUVvRTB5MWs?oc=5",
+   "published": "2026-11-26T16:13+08:00",
+   "expires": null,
+   "extra": "ETtoday新聞雲",
+   "src": "新聞：3C"
+  },
   {
    "id": "1a7ee92f76d9c0ad",
    "source": "Udemy",
@@ -38,18 +122,6 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
-  },
-  {
-   "id": "9d16683a8d703ac5",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
-   "published": "2026-11-26T13:44+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
   },
   {
    "id": "8f1b38ebf7d3d2a5",
@@ -85,6 +157,18 @@
    "published": "2026-11-26T11:55+08:00",
    "expires": null,
    "extra": "NOWnews今日新聞",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "03b4f35715822196",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "豐澤優惠｜5折平掃 BELKIN 10K 行動電源 即睇掃貨攻略",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUV5anEtUnpScEs1cm5STWd2ZDdFTFhBMURRbDlaZWVUeGZxVHJmQkVpc2NxX3dlLWdEdkdVbmpUSXdjUk5lbHIyc3J2V3ZfNS1aLXRod0d4ejJBcG5jZm9MaEJEZ0hOWHg3Q1B5WFN3MDVvR215U0djN2N6Sm1pYzRkY3kzRkdrWWFzZjk3LUJ1SVVLOG5Ma2htN3NLNlRiMUQ5ejVBYWQ5QzRFQjJwNTVXMHNSNnEyVklkcExNbE01UGc?oc=5",
+   "published": "2026-11-26T11:30+08:00",
+   "expires": null,
+   "extra": "新假期",
    "src": "新聞：3C"
   },
   {
@@ -1312,15 +1396,39 @@
    "src": "Udemy 課程"
   },
   {
-   "id": "740f85c7dfc71bdb",
+   "id": "d731e12b5a3333a1",
    "source": "新聞",
    "category": "優惠",
    "tag": "3C",
-   "title": "2026 好市多黑五 11/26 優惠清單！Acer AI 筆電省 7200、鑽石耳環最高省 1.4 萬",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rM1diSGVNWU9KVmZxM093T1g2VUNqbFQ4N2lZY24zTm5Xbm9QbWtldm93WGtpTFRTQnhPNHBpb1hXUXJRcUZoTFlHRjk?oc=5",
-   "published": "2026-11-25T16:19+08:00",
+   "title": "線上辦信貸最快1小時撥款！臺灣企銀抽iPhone Duo、iPhone 18 Pro 再享500元商品券",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83eXFvTXdqOVprdDVRTGxLWXRCZUJ3c0tTc2pfalF2eWM2cm1CeXhZZl9fSTR2dWxYcTZFcExlZGRUNXRPZ1NQV2VPS1R2RXYzNFE?oc=5",
+   "published": "2026-11-25T17:34+08:00",
    "expires": null,
-   "extra": "蘋果仁",
+   "extra": "放言Fount Media",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "6a98a1ea95bd8410",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026好市多黑五到什麼時候？14天優惠商品一次看！電視/黃金/生鮮...搶購規則、營業時間、黑鑽卡會員｜ 不斷更新",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3MjY2MFJ4UlBlSTlUNTJsSjlQWGNpUUNhTWVrN21oRGNMamNCZkFLb1ZHZ2lZcGt5c0wyZllPUXJ0SDJGQnFwYVNwYWg1UQ?oc=5",
+   "published": "2026-11-25T17:25+08:00",
+   "expires": null,
+   "extra": "風傳媒",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "1e32d352c757bee5",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五首度連開14天！黑鑽7:30先進場，電視、洗衣機到鑽戒的優惠一次看",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1aTRicWZNcURQVlRSb1JyR3Y0UUxxNlhQaGswMjBySzFvZE5seWl3RnFKMmJ2aVE3T3BhQnhDNl9YY2FiaDVDdQ?oc=5",
+   "published": "2026-11-25T16:49+08:00",
+   "expires": null,
+   "extra": "Dappei",
    "src": "新聞：3C"
   },
   {
