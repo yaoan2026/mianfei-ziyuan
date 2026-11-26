@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27T03:05+08:00",
+ "updated": "2026-11-27T06:00+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 18
+   "count": 17
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 6
+   "count": 7
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 1
+   "count": 3
   },
   "新聞：3C": {
    "ok": true,
-   "count": 17
+   "count": 9
   },
   "PTT 禮券板": {
    "ok": true,
@@ -28,6 +28,18 @@
  },
  "items": [
   {
+   "id": "9c9882ff56cc42b3",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
+   "published": "2026-11-27T04:21+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
    "id": "740f85c7dfc71bdb",
    "source": "新聞",
    "category": "優惠",
@@ -35,18 +47,6 @@
    "title": "2026 好市多黑五 11/26 優惠清單！Acer AI 筆電省 7200、鑽石耳環最高省 1.4 萬",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rM1diSGVNWU9KVmZxM093T1g2VUNqbFQ4N2lZY24zTm5Xbm9QbWtldm93WGtpTFRTQnhPNHBpb1hXUXJRcUZoTFlHRjk?oc=5",
    "published": "2026-11-27T02:13+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
-  },
-  {
-   "id": "9c9882ff56cc42b3",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-27T01:55+08:00",
    "expires": null,
    "extra": "蘋果仁",
    "src": "新聞：3C"
