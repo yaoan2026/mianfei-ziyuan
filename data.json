@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-26T06:02+08:00",
+ "updated": "2026-11-26T09:23+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 49
+   "count": 48
   },
   "中文課程/講座": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 4
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 2
+   "count": 5
   },
   "新聞：3C": {
    "ok": true,
-   "count": 21
+   "count": 19
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,30 @@
   }
  },
  "items": [
+  {
+   "id": "2cba47367d6f411e",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026好市多黑五到什麼時候？14天優惠商品一次看！電視/黃金/生鮮...搶購規則、營業時間、黑鑽卡會員｜ 不斷更新",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QVm9fRkxIajdnMGdETEdSVktKWXRac1pkTy1HVGp0SHh1d0YtdnNwZGdXSHh6bE4xVDlEdzRnS3UzRkNxMENYYkZBSlZDRGtF?oc=5",
+   "published": "2026-11-26T08:00+08:00",
+   "expires": null,
+   "extra": "風傳媒",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "9d16683a8d703ac5",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
+   "published": "2026-11-26T07:43+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
   {
    "id": "78dc6a0277282523",
    "source": "Udemy",
@@ -170,18 +194,6 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
-  },
-  {
-   "id": "9d16683a8d703ac5",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
-   "published": "2026-11-26T01:01+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
   },
   {
    "id": "adda71294895a8dc",
@@ -1252,18 +1264,6 @@
    "src": "Udemy 課程"
   },
   {
-   "id": "2cba47367d6f411e",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026好市多黑五到什麼時候？14天優惠商品一次看！電視/黃金/生鮮...搶購規則、營業時間、黑鑽卡會員｜ 不斷更新",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QVm9fRkxIajdnMGdETEdSVktKWXRac1pkTy1HVGp0SHh1d0YtdnNwZGdXSHh6bE4xVDlEdzRnS3UzRkNxMENYYkZBSlZDRGtF?oc=5",
-   "published": "2026-11-25T17:25+08:00",
-   "expires": null,
-   "extra": "風傳媒",
-   "src": "新聞：3C"
-  },
-  {
    "id": "740f85c7dfc71bdb",
    "source": "新聞",
    "category": "優惠",
@@ -1324,6 +1324,18 @@
    "src": "新聞：3C"
   },
   {
+   "id": "702116d32720be5e",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "小米Xiaomi 18 Pro系列開賣 售價39,999元起、1月3日前256GB免費升512GB",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sb29qT3g2cVIwcFNCdllZOEtRMk5iUHQtSm1XZm0tRldFdVdHcDBYYklXdTRDNVZ3MkE0QmY2T25GR1FCcnc0MEpITkZIYVNLcmNOSm5rNkhqbFFxMGpldloyRmhzcjd5dTRxS3RKWjM2N193R0pUUm40MXI?oc=5",
+   "published": "2026-11-25T12:28+08:00",
+   "expires": null,
+   "extra": "4Gamers",
+   "src": "新聞：蝦皮"
+  },
+  {
    "id": "9c2d87f7318600c4",
    "source": "新聞",
    "category": "優惠",
@@ -1382,6 +1394,18 @@
    "expires": null,
    "extra": "TVBS 健康2.0",
    "src": "中文課程/講座"
+  },
+  {
+   "id": "302afb35068efd67",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五第3天優惠懶人包　AI筆電現省7700元、漱口水特價",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93bll0OWhYN1FMT1BvRG5NTV9vWHMyVUxjenZ2WUdxVHR1QlJfeGhOeWcwcTNoeFFKRDRWN0xxb3NBQUxzc0ZhLWRBcUljOVhKNU9PR1lXcjNrRmdFSnfSAUtBVV95cUxOWGQwR05ZX0d4QjZJSjJ0bDBLT0hNR2dtOTlwTVhuVGFXZDFGN2hkMmNaUFRnVnNNZUVCbzRxZXBLRF9yU19fMVFwb0U?oc=5",
+   "published": "2026-11-25T10:37+08:00",
+   "expires": null,
+   "extra": "ETtoday新聞雲",
+   "src": "新聞：3C"
   },
   {
    "id": "99b77aef5973b143",
@@ -1694,6 +1718,18 @@
    "expires": null,
    "extra": "ETtoday新聞雲",
    "src": "新聞：3C"
+  },
+  {
+   "id": "cc84fc91b6937002",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone 18 新機上市掀換機潮 七大銀行刷卡回饋一次看",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iOHhhSHBLNTVNTGs1eG9VVVBkS2dyRXdaV1JiZTM4OUNxVnh4endUcUF1MWMtQm9Dbkg1Wk5kRnUyS1JuV3QtMl84SkVobTJFVW8xSVFLOV9rd9IBX0FVX3lxTE9VemNrdlJleHJELXljaVJIajhYMWRsTnEwY1pMTGRMUDhtaFR0WERzM2lkVTF5T2tpbzl4UEVraUJkYldaTFZHaG5iYUhkeVpUTVdCTGFoUl9UdHZtdnFJ?oc=5",
+   "published": "2026-11-24T16:00+08:00",
+   "expires": null,
+   "extra": "經濟日報",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "817e00a849806c5c",
@@ -2294,18 +2330,6 @@
    "expires": null,
    "extra": "Yahoo新聞",
    "src": "新聞：3C"
-  },
-  {
-   "id": "cc84fc91b6937002",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone 18 新機上市掀換機潮 七大銀行刷卡回饋一次看",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iOHhhSHBLNTVNTGs1eG9VVVBkS2dyRXdaV1JiZTM4OUNxVnh4endUcUF1MWMtQm9Dbkg1Wk5kRnUyS1JuV3QtMl84SkVobTJFVW8xSVFLOV9rd9IBX0FVX3lxTE9VemNrdlJleHJELXljaVJIajhYMWRsTnEwY1pMTGRMUDhtaFR0WERzM2lkVTF5T2tpbzl4UEVraUJkYldaTFZHaG5iYUhkeVpUTVdCTGFoUl9UdHZtdnFJ?oc=5",
-   "published": "2026-11-23T16:00+08:00",
-   "expires": null,
-   "extra": "經濟日報",
-   "src": "新聞：蝦皮"
   },
   {
    "id": "523eeff2909ebbb2",
