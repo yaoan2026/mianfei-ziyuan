@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T09:23+08:00",
+ "updated": "2026-11-26T12:08+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 48
+   "count": 49
   },
   "中文課程/講座": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "新聞：3C": {
    "ok": true,
-   "count": 19
+   "count": 12
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,30 @@
   }
  },
  "items": [
+  {
+   "id": "7ab766818b8e88fa",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五11/26優惠！行李箱2入組省1200元、電競螢幕現折2100元",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZX0FnVGtPOW5NVUU4VVVZQzFOTFh2YWhGS1ZiVFJqY3pLaURLblRtSjRLVld4SHVfX0wxcHFDWjlRRGxoczd6eG5JLVLSAVJBVV95cUxPZU1YU3g4Y3BvRmJ0dzRSMDdWczRiWDdqYlF4NmF0LXVBR2pzZkJQNWhkWDZ4UTJ4MEU1T0RnM1RhNGJBWE52TXJaOGR3Y0pLcXZR?oc=5",
+   "published": "2026-11-26T11:55+08:00",
+   "expires": null,
+   "extra": "NOWnews今日新聞",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "9d16683a8d703ac5",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
+   "published": "2026-11-26T10:43+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
   {
    "id": "2cba47367d6f411e",
    "source": "新聞",
@@ -37,18 +61,6 @@
    "published": "2026-11-26T08:00+08:00",
    "expires": null,
    "extra": "風傳媒",
-   "src": "新聞：3C"
-  },
-  {
-   "id": "9d16683a8d703ac5",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/25 優惠清單！AI 筆電省 7700、A4 和牛每公斤省 550 元",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWGRzR1Nva0VCbGttR3A2dERLR04zMVR5MmV1M1k4NElOSElQd0sxcFN5N0IzS0lRMXJXRzZRLWd2WnFQbU5Kd0pnYVU?oc=5",
-   "published": "2026-11-26T07:43+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
    "src": "新聞：3C"
   },
   {
@@ -1420,6 +1432,30 @@
    "src": "新聞：蝦皮"
   },
   {
+   "id": "23e5468e72b626d8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-25T07:56+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
+  },
+  {
+   "id": "d622cda8cd944dd1",
+   "source": "中文課程/講座",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI課程2026｜史丹福MIT 4大免費線上課程推薦！新手到進階附連結慳百萬學費",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVGNGVFRyWTVleWRBNU1XUTdQZGNvVEFRU2RvcFNqQXpqZlpxSFRtMEJ2cW1VLVlKN2lRTERwTGF5QW5kcEgwdUtDVl95SFEtdDR5TEotTzlyUEZOdzJ3OWJzc2xYQ21DeGRfUnJkaDVPR0pPejNSYmRkYks0ZEdQekxRclE1YWtaaG9Ec0xNV0NaV2s0eER2NTV3TVNwTk0ybmVpUVdlTUxDSVdhREh3bTg5cU5fWWlheWVVMmE3T2tzQWtjbk9HZU9NYUcxcDNGVjdLTHVmU1IzbG94amE5cUFwUWNLOFROVmpkRkg0S0NEcDJ2U1RCTllB?oc=5",
+   "published": "2026-11-25T07:30+08:00",
+   "expires": null,
+   "extra": "新假期",
+   "src": "中文課程/講座"
+  },
+  {
    "id": "436b3359e3a5fb7a",
    "source": "Udemy",
    "category": "課程",
@@ -1624,18 +1660,6 @@
    "src": "新聞：3C"
   },
   {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-24T17:55+08:00",
-   "expires": null,
-   "extra": "三立新聞",
-   "src": "新聞：蝦皮"
-  },
-  {
    "id": "24e4406d4f37d69c",
    "source": "新聞",
    "category": "優惠",
@@ -1684,6 +1708,18 @@
    "src": "新聞：3C"
   },
   {
+   "id": "0a524d2ff9643f1a",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五第3天優惠出爐！和牛、家電、AI筆電等最高省7700元",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByRzVqeHdXUUZNdC1senI2N2gzcnVUYXBlZmNEMlQ2dWp6RkN3R2pfdmgtbTh4V0h5MTNoWDZjaXpQbVhtUjRyNWlKdw?oc=5",
+   "published": "2026-11-24T16:52+08:00",
+   "expires": null,
+   "extra": "樂聯網",
+   "src": "新聞：3C"
+  },
+  {
    "id": "e4ff92c2efdae41d",
    "source": "新聞",
    "category": "優惠",
@@ -1705,6 +1741,18 @@
    "published": "2026-11-24T16:32+08:00",
    "expires": null,
    "extra": "udnSTYLE",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "1212b7754e1aee5c",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五Day3優惠現省1萬！筆電、行李箱都下殺　11/25清單整理",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92eGlTUGc0Z3lxSExPZ0NCdUhORVM1Y0NfNXRsWWdHYnZud01xOUhaeGpMZjFIc2ZuYjlkaE55RXNTdGVpdUdaU3JCdk1HOUV3dXfSAVJBVV95cUxPdnhpU1BnNGd5cUhMT2dDQnVITkVTNWNDXzV0bFlnR2J2bndNcTlIWnhqTGYxSHNmbmI5ZGhOeUVzU3RlaXVHWlNyQnZNRzlFd3V3?oc=5",
+   "published": "2026-11-24T16:26+08:00",
+   "expires": null,
+   "extra": "NOWnews今日新聞",
    "src": "新聞：3C"
   },
   {
