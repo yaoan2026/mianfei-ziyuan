@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-26T18:18+08:00",
+ "updated": "2026-11-26T21:28+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 26
+   "count": 25
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 7
+   "count": 4
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 1
+   "count": 4
   },
   "新聞：3C": {
    "ok": true,
-   "count": 20
+   "count": 18
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,42 @@
   }
  },
  "items": [
+  {
+   "id": "ac6494065885cceb",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Ethics-Responsible Use (intro course for all learners)",
+   "url": "https://www.couponami.com/business/ai-ethics-responsible-use-intro-course-for-all-learners-g",
+   "published": "2026-11-26T21:28+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "9c9882ff56cc42b3",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
+   "published": "2026-11-26T20:31+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "740f85c7dfc71bdb",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/26 優惠清單！Acer AI 筆電省 7200、鑽石耳環最高省 1.4 萬",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rM1diSGVNWU9KVmZxM093T1g2VUNqbFQ4N2lZY24zTm5Xbm9QbWtldm93WGtpTFRTQnhPNHBpb1hXUXJRcUZoTFlHRjk?oc=5",
+   "published": "2026-11-26T20:10+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
   {
    "id": "debf18fb09cf780a",
    "source": "Udemy",
@@ -49,18 +85,6 @@
    "published": "2026-11-26T18:08+08:00",
    "expires": null,
    "extra": "Cool3c",
-   "src": "新聞：3C"
-  },
-  {
-   "id": "740f85c7dfc71bdb",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/26 優惠清單！Acer AI 筆電省 7200、鑽石耳環最高省 1.4 萬",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rM1diSGVNWU9KVmZxM093T1g2VUNqbFQ4N2lZY24zTm5Xbm9QbWtldm93WGtpTFRTQnhPNHBpb1hXUXJRcUZoTFlHRjk?oc=5",
-   "published": "2026-11-26T17:03+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
    "src": "新聞：3C"
   },
   {
@@ -100,6 +124,18 @@
    "src": "新聞：3C"
   },
   {
+   "id": "0bddc7dcdd9e0c62",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五Day 5優惠推薦一次看 掃地機器人、劇院組、電競筆電省超大",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pZnQycHhFcVlsdGlITWw5dGdWY0ZYOEJnWHpoYVk2XzJPQUtlRkQ5bWZpVVpkRnRuVFVyMU92NWNTYTZJSzQ4SDNJRWJxNHJ6R3BXRmNhVE40SlVm?oc=5",
+   "published": "2026-11-26T16:32+08:00",
+   "expires": null,
+   "extra": "UDN",
+   "src": "新聞：3C"
+  },
+  {
    "id": "b914fc4aa0fc554a",
    "source": "新聞",
    "category": "優惠",
@@ -122,6 +158,18 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
+  },
+  {
+   "id": "23e5468e72b626d8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-26T14:14+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "8f1b38ebf7d3d2a5",
@@ -1576,6 +1624,18 @@
    "src": "新聞：3C"
   },
   {
+   "id": "57cf645a5d78b678",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五第3天優惠懶人包 AI筆電現省7700元、漱口水特價",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93bll0OWhYN1FMT1BvRG5NTV9vWHMyVUxjenZ2WUdxVHR1QlJfeGhOeWcwcTNoeFFKRDRWN0xxb3NBQUxzc0ZhLWRBcUljOVhKNU9PR1lXcjNrRmdFSnc?oc=5",
+   "published": "2026-11-25T10:37+08:00",
+   "expires": null,
+   "extra": "ETtoday新聞雲",
+   "src": "新聞：3C"
+  },
+  {
    "id": "99b77aef5973b143",
    "source": "新聞",
    "category": "優惠",
@@ -1585,18 +1645,6 @@
    "published": "2026-11-25T08:57+08:00",
    "expires": null,
    "extra": "LIFE 生活網",
-   "src": "新聞：蝦皮"
-  },
-  {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-25T07:56+08:00",
-   "expires": null,
-   "extra": "三立新聞",
    "src": "新聞：蝦皮"
   },
   {
@@ -1742,6 +1790,18 @@
    "expires": null,
    "extra": "",
    "src": "PTT 省錢板"
+  },
+  {
+   "id": "0d1f533f75ebf219",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "小米618最低55折！POCO M8s 5G同步亮相　618萬蝦幣這樣拿",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94Q28tZ0xKQWpnS0x6NHBoQWZHRXRZUkpjMjVKcng4aUdQTVJhZ09aZ1Zzc2wzdjl1NTNJcElhQ0p3bDhjYnp5ZtIBTEFVX3lxTFBrLTBaT2hpWXYzVEg2V2s3UzdCVnVwT2YyUGIwc0xhdzJkOTdYN2xuUHRqZ04tdnQzNWRlVVQyQzU5VUhwUmtiazFoUzE?oc=5",
+   "published": "2026-11-24T23:25+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "b83c4a8df67ea9fc",
