@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-27T15:26+08:00",
+ "updated": "2026-11-27T18:15+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 11
+   "count": 10
   },
   "中文課程/講座": {
    "ok": true,
@@ -11,15 +11,15 @@
   },
   "PTT 省錢板": {
    "ok": true,
-   "count": 4
+   "count": 3
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 1
+   "count": 4
   },
   "新聞：3C": {
    "ok": true,
-   "count": 8
+   "count": 10
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,114 @@
   }
  },
  "items": [
+  {
+   "id": "532d9522533fb0fd",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "ChatGPT for HR AI Powered Automation Talent Management [EN]",
+   "url": "https://www.couponami.com/business/chatgpt-for-hr-and-recruiters-12-academic-hours-200-tools",
+   "published": "2026-11-27T18:15+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "db38d7480c3686e9",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "RecruitGPT Master AI + ChatGPT for Recruiting Sourcing [EN]",
+   "url": "https://www.couponami.com/business/recruitgpt-master-ai-chatgpt-for-recruiting-sourcing",
+   "published": "2026-11-27T18:15+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "58c06508c345ad84",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Future of Work: AI, Automation and the Human Advantage",
+   "url": "https://www.couponami.com/business/robots-and-hr",
+   "published": "2026-11-27T18:15+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "62515fafc1b00278",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "股票",
+   "title": "Cryptocurrency Trading - Technical Analysis",
+   "url": "https://www.couponami.com/business/cryptocurrency-trading-technical-analysis",
+   "published": "2026-11-27T18:15+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "9c9882ff56cc42b3",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
+   "published": "2026-11-27T16:56+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "3c7a57c67fa88c11",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "2026蝦皮刷卡攻略》15張信用卡推薦，購物最高享10%回饋！",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvNFFJNlBUQm1aUGRtN3VIdGlNNEoweUpuUGVBcmNlSGU1LUdLT2xvNndyZ3VXN2s2MF9rZnNSd1hkM0ZzN1BwMF9XeWxLOU1EV1hiUEFYeUZpSkFaOWc?oc=5",
+   "published": "2026-11-27T16:21+08:00",
+   "expires": null,
+   "extra": "卡優新聞網",
+   "src": "新聞：蝦皮"
+  },
+  {
+   "id": "c2d0b3c5a80fb94b",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/28 優惠清單！金條省 3 萬、ASUS 電競主機省 1.34 萬",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VczFzMDNtaVBCQ1NpX1JxY1U1dmdZc0Z1Zl9RSkJBVGsyZTFfNXVoXzZvZ1Zja3FuUjhWTGZFMUR5STBwbFpidXN4LTU?oc=5",
+   "published": "2026-11-27T16:19+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "5d148d17db42a08a",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "蝦皮購物「12.12 狂歡生日慶」暖身開跑！「生日賓果」天天領號碼連線拿 999 元優惠券",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnJMSVF0NUdYNllVenpxUXZNWkRVWk1zUXR3VWNkTEN5a2tFekU5S3BaaVB2NGliUmlYUW5fNllzS0xHQ3B3RHpZNklQaEo1MFdjTFZndXZXYXEydjZYTThMVnVwMXAyT0lwX21EbnpiUjZ2dkxtRnEwUi1qVk1lNUlvWQ?oc=5",
+   "published": "2026-11-27T15:45+08:00",
+   "expires": null,
+   "extra": "T客邦",
+   "src": "新聞：蝦皮"
+  },
+  {
+   "id": "1bcd8382d4c32e65",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "迎歲末備禮潮PChome 24h購物1212年終盛典登場電視、冰箱搜尋量週增雙位數聚焦「旗艦3C、家事救星、居家紓壓」三大尾牙選購提案超值優惠18折起領神券最高折1,212元、單筆滿12元登記送12% 聯名卡享最高9,500 P幣回饋- 消費新聞- PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnZ3Qmh4Wnk5TURmaWg2WjZFbkhObVNnZ2RLSjhwY3VPdzc5OWtPcmVMYUJGeHJKdnNKYWM5V3ZZMk9zaTBtNTlheFlOdS1tNjI4TTRZZkM4MWJKUlEyekRDRGltTks2Qlk4WV91M201dUdFR293SVZrSVQzaDZTS2p0VDN6dnJkUkljXy1n?oc=5",
+   "published": "2026-11-27T15:40+08:00",
+   "expires": null,
+   "extra": "PChome Online 新聞",
+   "src": "新聞：3C"
+  },
   {
    "id": "65ca6853e6fc0cc9",
    "source": "Udemy",
@@ -40,16 +148,16 @@
    "src": "Udemy 課程"
   },
   {
-   "id": "9c9882ff56cc42b3",
+   "id": "c8cce3dfd1b81459",
    "source": "新聞",
    "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-27T13:57+08:00",
+   "tag": "蝦皮",
+   "title": "討論牆 | 蝦皮官網大當機！會員被強制登出搶不到優惠氣炸 官方回應了",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DbEo1SFJsdkRWUmpfQTdTQzhiU0Vuam1WRGo1bEhsTkI0MHJSanZFWWRxVWYxUTJRTHp4LW84dGo1NUZLb0dNemRILXpYODRianY5aGp2QlhmX1ltbWxIWlJyaXo?oc=5",
+   "published": "2026-11-27T14:10+08:00",
    "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
+   "extra": "LINE TODAY",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "a00a9035fbbab0b1",
@@ -136,18 +244,6 @@
    "src": "新聞：3C"
   },
   {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-27T04:38+08:00",
-   "expires": null,
-   "extra": "三立新聞",
-   "src": "新聞：蝦皮"
-  },
-  {
    "id": "be6f9a79788759ed",
    "source": "Udemy",
    "category": "課程",
@@ -194,6 +290,18 @@
    "expires": null,
    "extra": "Cool3c",
    "src": "新聞：3C"
+  },
+  {
+   "id": "23e5468e72b626d8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-26T17:52+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "9d16683a8d703ac5",
