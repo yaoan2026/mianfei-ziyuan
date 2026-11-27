@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-28T00:10+08:00",
+ "updated": "2026-11-28T03:03+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 9
+   "count": 8
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 4
+   "count": 3
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 4
+   "count": 5
   },
   "新聞：3C": {
    "ok": true,
@@ -28,16 +28,40 @@
  },
  "items": [
   {
+   "id": "f7a3575af5c7be21",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "5 Days 5 Machine Learning Projects From Scratch",
+   "url": "https://www.couponami.com/machine-learning/5-days-5-machine-learning-projects-from-scratch",
+   "published": "2026-11-28T03:03+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
    "id": "9c9882ff56cc42b3",
    "source": "新聞",
    "category": "優惠",
    "tag": "3C",
    "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-27T23:06+08:00",
+   "published": "2026-11-28T02:13+08:00",
    "expires": null,
    "extra": "蘋果仁",
    "src": "新聞：3C"
+  },
+  {
+   "id": "d4bf5bff775e4cc8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "蝦皮購物「12.12狂歡生日慶」暖身開跑！「生日賓果」連線拿優惠券| 旅遊",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82Z3JQbkhsZ2NLQUdNU01UQVVMazVLclBhOENjaUtkN2lNZ2RWcF9aVE5BX0hCcEdOSms0Uk9Xb1U3bWNVTExLdU5WbkFtODc5?oc=5",
+   "published": "2026-11-27T22:45+08:00",
+   "expires": null,
+   "extra": "UDN",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "12cdd4fd76f581f2",
@@ -322,7 +346,7 @@
    "tag": "3C",
    "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-26T17:52+08:00",
+   "published": "2026-11-26T18:03+08:00",
    "expires": null,
    "extra": "三立新聞",
    "src": "新聞：蝦皮"
