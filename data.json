@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-27T21:23+08:00",
+ "updated": "2026-11-28T00:10+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 10
+   "count": 9
   },
   "中文課程/講座": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 4
   },
   "PTT 省錢板": {
    "ok": true,
-   "count": 3
+   "count": 1
   },
   "新聞：蝦皮": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 4
   },
   "新聞：3C": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 15
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,42 @@
   }
  },
  "items": [
+  {
+   "id": "9c9882ff56cc42b3",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
+   "published": "2026-11-27T23:06+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "12cdd4fd76f581f2",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "蝦皮購物「12.12狂歡生日慶」暖身開跑！「生日賓果」連線拿優惠券",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5STHpSOTRYQ1FVTElrSWk5b25nYlFCOURoY0VadVZ5UmpSWnVHbHJMU0R4M2tCUUpZS0d1WndxLXMzZ290SDk4MVZvWlJNNmYweF9RVmxPVm1XWWg0QzdueVhn0gFiQVVfeXFMTlJMelI5NFhDUVVMSWtJaTlvbmdiUUI5RGhjRVp1VnlSalJadUdsckxTRHgza0JRSllLR3Vad3EtczNnb3RIOTgxVm9aUk02ZjB4X1FWbE9WbVdZaDRDN255WGc?oc=5",
+   "published": "2026-11-27T21:36+08:00",
+   "expires": null,
+   "extra": "經濟日報",
+   "src": "新聞：蝦皮"
+  },
+  {
+   "id": "471178ef64d956cf",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "討論牆 | 搶攻黑五與尾牙採購商機 3C家電通路祭全館5折起優惠",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVTDRMWDhRS041Y1MyWDZ0Q1pZdjdBRE5sZXZaNmtqczNSNlRtcVc5djdTaklscTFqeXQ4OGdQOFBuSzg0czlwc3VTRkNDRmdMNlZlN19hbTVIaWFSd0JlTnJTQ1U?oc=5",
+   "published": "2026-11-27T18:17+08:00",
+   "expires": null,
+   "extra": "LINE TODAY",
+   "src": "新聞：3C"
+  },
   {
    "id": "532d9522533fb0fd",
    "source": "Udemy",
@@ -74,18 +110,6 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
-  },
-  {
-   "id": "9c9882ff56cc42b3",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-27T16:56+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
   },
   {
    "id": "3c7a57c67fa88c11",
@@ -184,6 +208,18 @@
    "src": "Udemy 課程"
   },
   {
+   "id": "740f85c7dfc71bdb",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/26 優惠清單！Acer AI 筆電省 7200、鑽石耳環最高省 1.4 萬",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rM1diSGVNWU9KVmZxM093T1g2VUNqbFQ4N2lZY24zTm5Xbm9QbWtldm93WGtpTFRTQnhPNHBpb1hXUXJRcUZoTFlHRjk?oc=5",
+   "published": "2026-11-27T11:21+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
    "id": "f6921f4e8fb0c161",
    "source": "中文課程/講座",
    "category": "課程",
@@ -229,18 +265,6 @@
    "published": "2026-11-27T09:25+08:00",
    "expires": null,
    "extra": "自由財經",
-   "src": "新聞：3C"
-  },
-  {
-   "id": "740f85c7dfc71bdb",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/26 優惠清單！Acer AI 筆電省 7200、鑽石耳環最高省 1.4 萬",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rM1diSGVNWU9KVmZxM093T1g2VUNqbFQ4N2lZY24zTm5Xbm9QbWtldm93WGtpTFRTQnhPNHBpb1hXUXJRcUZoTFlHRjk?oc=5",
-   "published": "2026-11-27T08:17+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
    "src": "新聞：3C"
   },
   {
