@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-27T12:12+08:00",
+ "updated": "2026-11-27T15:26+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 19
+   "count": 11
   },
   "中文課程/講座": {
    "ok": true,
@@ -11,15 +11,15 @@
   },
   "PTT 省錢板": {
    "ok": true,
-   "count": 3
+   "count": 4
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 2
+   "count": 1
   },
   "新聞：3C": {
    "ok": true,
-   "count": 7
+   "count": 8
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,42 @@
   }
  },
  "items": [
+  {
+   "id": "65ca6853e6fc0cc9",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Mastering ChatGPT: From Beginner to AI Power User",
+   "url": "https://www.couponami.com/machine-learning/mastering-chatgpt-from-beginner-to-ai-power-user",
+   "published": "2026-11-27T15:26+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "9c9882ff56cc42b3",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
+   "published": "2026-11-27T13:57+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "a00a9035fbbab0b1",
+   "source": "PTT Lifeismoney",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "[情報] 蝦皮直營超市 好韌真、小白兔暖暖包特價",
+   "url": "https://www.ptt.cc/bbs/Lifeismoney/M.1795755596.A.135.html",
+   "published": "2026-11-27T12:59+08:00",
+   "expires": null,
+   "extra": "",
+   "src": "PTT 省錢板"
+  },
   {
    "id": "989a3ec9b197bfc1",
    "source": "Udemy",
@@ -40,18 +76,6 @@
    "src": "Udemy 課程"
   },
   {
-   "id": "9c9882ff56cc42b3",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-27T11:01+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
-  },
-  {
    "id": "f6921f4e8fb0c161",
    "source": "中文課程/講座",
    "category": "課程",
@@ -62,6 +86,18 @@
    "expires": null,
    "extra": "富聯網",
    "src": "中文課程/講座"
+  },
+  {
+   "id": "053ade4ddc5c3738",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "DIKE 高雄家電展祭出全面 5 折起優惠　萬元清淨機買一送一　萬元有找入手人氣家電　氣炸鍋、無線吸塵器買一送一，購買除濕機再送烘衣機",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fc2hYM1FUS3VMd1dGMVd2MXVGYy1RUU5fY3BqN1FCR1ZhUkVYbmdRckpYb05WaFNQVE80NkU5OU9zZ1RQRzhGd1RoZXBvQdIBTkFVX3lxTE1fc2hYM1FUS3VMd1dGMVd2MXVGYy1RUU5fY3BqN1FCR1ZhUkVYbmdRckpYb05WaFNQVE80NkU5OU9zZ1RQRzhGd1RoZXBvQQ?oc=5",
+   "published": "2026-11-27T09:46+08:00",
+   "expires": null,
+   "extra": "3C 達人廖阿輝",
+   "src": "新聞：3C"
   },
   {
    "id": "fa775de580ede9c5",
