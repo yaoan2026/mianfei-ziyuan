@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27T09:26+08:00",
+ "updated": "2026-11-27T12:12+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 12
+   "count": 19
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 6
+   "count": 4
   },
   "PTT 省錢板": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "新聞：3C": {
    "ok": true,
-   "count": 16
+   "count": 7
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,66 @@
   }
  },
  "items": [
+  {
+   "id": "989a3ec9b197bfc1",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Red Teaming & LLM Hacking - A Practical Guide with Labs",
+   "url": "https://www.couponami.com/business/ai-red-teaming",
+   "published": "2026-11-27T12:12+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "9c9882ff56cc42b3",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
+   "published": "2026-11-27T11:01+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "f6921f4e8fb0c161",
+   "source": "中文課程/講座",
+   "category": "課程",
+   "tag": "股票",
+   "title": "【免費台股講座】台北12/1、高雄12/8登場",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3JCdVM4eUZLS0hLNzVDUDBQRWRfZDFGekozUlNPR2ZaRzVYdk9WWXNCU0I5dmJIUjVnaGc5VEZ5T2pNVXNDWkM1NTB0R1YyRzRsMXFBNC1EUTZrTVA2RmVwV25EWFdBNEctaEhldndrdGRwRTRLUm5Wd090c1ZQd2NqYVFHbkRB?oc=5",
+   "published": "2026-11-27T10:05+08:00",
+   "expires": null,
+   "extra": "富聯網",
+   "src": "中文課程/講座"
+  },
+  {
+   "id": "fa775de580ede9c5",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2377 微星 - Coupang酷澎黑五3C旗艦手機最高折3000元攜手UCC等國內外品牌祭優惠- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GcXRZMDRld3FsV0hvXzBWUFNvZnFhWFBHcjlyWVBNS0k4WE5ucG5rRm02M3Q4Y3lZNFFzYWZVcXo0ZVRxSzA2c0U2RUFPN1pUd3Z5c1BrNUU?oc=5",
+   "published": "2026-11-27T09:39+08:00",
+   "expires": null,
+   "extra": "CMoney",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "fe7b73f0245d3d32",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "Coupang酷澎黑五3C旗艦手機最高折3000元 攜手UCC等國內外品牌祭優惠",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JNDl3Mmh5Yy1tMmxQak9wUVNkWFBFQ2pVOGVDR1I0VWY4bHQwUjFuNWlnc0thRFljOTZudHRLWDRvdW5Tb0dQOF84LWZoRVEzWkNYMFFBMWJBU2U4VDVz0gFkQVVfeXFMTVJEbmZlQldUUzRmajZURi1pNExOS2tTcjJrbERYaVNuLWRwVmlsUmgzeDF4SEQ1WVk2SFRFQkdvQTE4dUlwWGNEdUx2SWYyZThNbW5UQnplMlBCelBCckFFTzZMdA?oc=5",
+   "published": "2026-11-27T09:25+08:00",
+   "expires": null,
+   "extra": "自由財經",
+   "src": "新聞：3C"
+  },
   {
    "id": "740f85c7dfc71bdb",
    "source": "新聞",
@@ -40,16 +100,16 @@
    "src": "新聞：3C"
   },
   {
-   "id": "9c9882ff56cc42b3",
+   "id": "23e5468e72b626d8",
    "source": "新聞",
    "category": "優惠",
    "tag": "3C",
-   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-27T07:56+08:00",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-27T04:38+08:00",
    "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
   },
   {
    "id": "be6f9a79788759ed",
@@ -590,18 +650,6 @@
    "expires": null,
    "extra": "LIFE 生活網",
    "src": "新聞：3C"
-  },
-  {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-25T21:49+08:00",
-   "expires": null,
-   "extra": "三立新聞",
-   "src": "新聞：蝦皮"
   },
   {
    "id": "986c1d34b7a30897",
