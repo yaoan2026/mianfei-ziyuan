@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-27T18:15+08:00",
+ "updated": "2026-11-27T21:23+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
    "count": 10
   },
   "中文課程/講座": {
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   "PTT 省錢板": {
    "ok": true,
    "count": 3
   },
   "新聞：蝦皮": {
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   "新聞：3C": {
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   },
   "PTT 禮券板": {
    "ok": true,
