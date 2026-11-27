@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-28T03:03+08:00",
+ "updated": "2026-11-28T06:01+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 8
+   "count": 4
   },
   "中文課程/講座": {
    "ok": true,
@@ -18,8 +18,8 @@
    "count": 5
   },
   "新聞：3C": {
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests"
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,30 @@
   }
  },
  "items": [
+  {
+   "id": "9cf3b5e59ee840b2",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Passive Earn with AI Tools: Unlock Automated Income Streams",
+   "url": "https://www.couponami.com/business/passiveearn",
+   "published": "2026-11-28T06:01+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "a81a54654783546e",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "蝦皮雙12賓果連連樂 PChome 24h回饋12%",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrekQ5Z3ZZNUg0U3R6UndOZ2hNNnFHYk5CcnNqajNYcTN2T2JQUnBOMUdSczQ2ZUl5YmtBMndqWUdsX05NVHp1SThRRGZyOGRUU05lMldMYVE1QQ?oc=5",
+   "published": "2026-11-28T03:38+08:00",
+   "expires": null,
+   "extra": "卡優新聞網",
+   "src": "新聞：蝦皮"
+  },
   {
    "id": "f7a3575af5c7be21",
    "source": "Udemy",
