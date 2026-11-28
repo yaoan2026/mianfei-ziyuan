@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-28T15:20+08:00",
+ "updated": "2026-11-28T17:57+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 8
+   "count": 7
   },
   "中文課程/講座": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 4
+   "count": 5
   },
   "新聞：3C": {
    "ok": true,
-   "count": 15
+   "count": 12
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,54 @@
   }
  },
  "items": [
+  {
+   "id": "785a09679464b6e6",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Full AI Course: ChatGPT, Google Gemini, Midjourney, Firefly",
+   "url": "https://www.couponami.com/business/full-ai-course-chatgpt-google-gemini-midjourney-firefly",
+   "published": "2026-11-28T17:57+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "8f3778cf7126d4af",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "ChatGPT Advanced Course: Learn ChatGPT, Gemini & More",
+   "url": "https://www.couponami.com/business/chatgpt-advanced-course-learn-chatgpt-gemini-more",
+   "published": "2026-11-28T17:57+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "9c9882ff56cc42b3",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
+   "published": "2026-11-28T17:41+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "bad334d6727851ac",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/29 優惠清單！Mac mini 省 3000、A4 和牛每公斤省 600 元",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9veHhoMVZ6VzVnSXZrNzdXT1Q2MnZkc3FfRTg0M0EyS3M3cFpGMUFaS2Y4MlJlbGttZVBHY2R4eDNjTWVkdlJqczV0b04?oc=5",
+   "published": "2026-11-28T16:14+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
   {
    "id": "af067e2ca47e6cf3",
    "source": "Udemy",
@@ -50,18 +98,6 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
-  },
-  {
-   "id": "9c9882ff56cc42b3",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-28T14:54+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
   },
   {
    "id": "b51b1ac7d1bab02c",
@@ -181,6 +217,18 @@
    "published": "2026-11-27T21:36+08:00",
    "expires": null,
    "extra": "經濟日報",
+   "src": "新聞：蝦皮"
+  },
+  {
+   "id": "07e9c26a4cb43132",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "蝦皮購物「12.12狂歡生日慶」暖身開跑！「生日賓果」連線拿優惠券",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2RXcG1TdU0zcy0zeUVJU1hLTXJwcW5EZTZOZERyTXhRYVpZZXNtaXllNXVIdGVockJJSjdqMGxhMUNVZFdiVV9INTg3aWZJTW1IOXJsWGxsd0tMOXV0ZFhkemdoM3dNOHNwVlVnNzdlTlhhTFQ2U19ZM0FmTTE5Zkx3?oc=5",
+   "published": "2026-11-27T21:28+08:00",
+   "expires": null,
+   "extra": "UDN",
    "src": "新聞：蝦皮"
   },
   {
