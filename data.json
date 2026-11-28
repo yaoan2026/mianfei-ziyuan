@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-28T09:21+08:00",
+ "updated": "2026-11-28T12:01+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 4
+   "count": 3
   },
   "中文課程/講座": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 6
+   "count": 5
   },
   "新聞：3C": {
    "ok": true,
-   "count": 10
+   "count": 13
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,42 @@
   }
  },
  "items": [
+  {
+   "id": "9c9882ff56cc42b3",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
+   "published": "2026-11-28T11:45+08:00",
+   "expires": null,
+   "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "718d2fbe959839a7",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "蝦皮購物「12.12狂歡生日慶」暖身開跑！「生日賓果」連線拿優惠券| 品味生活",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRG5qOHZuX011VXJac25XWDVJUlozeFRkaG5XQUlqY19YOTNPcWVCUmxiNE9meTAzWG9ZU2dHd2hBekltVVk2N1VfYWR4SFhpTE5ud2UwUFE4QmxXcFA1b1JGNkE5ZGo0VjM1WkxRTC1fT2loUE1LRHRrckFteEdBTg?oc=5",
+   "published": "2026-11-28T09:28+08:00",
+   "expires": null,
+   "extra": "udnSTYLE",
+   "src": "新聞：蝦皮"
+  },
+  {
+   "id": "23e5468e72b626d8",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
+   "published": "2026-11-28T07:50+08:00",
+   "expires": null,
+   "extra": "三立新聞",
+   "src": "新聞：蝦皮"
+  },
   {
    "id": "9cf3b5e59ee840b2",
    "source": "Udemy",
@@ -62,18 +98,6 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
-  },
-  {
-   "id": "9c9882ff56cc42b3",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-28T02:13+08:00",
-   "expires": null,
-   "extra": "蘋果仁",
-   "src": "新聞：3C"
   },
   {
    "id": "d4bf5bff775e4cc8",
@@ -316,6 +340,18 @@
    "src": "新聞：3C"
   },
   {
+   "id": "718bbfaf5681e715",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "Coupang酷澎黑五3C加碼優惠！指定筆電回饋15％酷澎幣",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0SzhSd2FkYTAzMEx0VjFZR3VkWktmOTZUOVJPNjBnV0RXMVdoM25qMEUzV2IxVFVDNUZfRm5ZMkZ3LWF0TjV3dDJ2UHppZVJrTEE?oc=5",
+   "published": "2026-11-27T02:11+08:00",
+   "expires": null,
+   "extra": "中華新聞雲／中華日報",
+   "src": "新聞：3C"
+  },
+  {
    "id": "be6f9a79788759ed",
    "source": "Udemy",
    "category": "課程",
@@ -362,18 +398,6 @@
    "expires": null,
    "extra": "Cool3c",
    "src": "新聞：3C"
-  },
-  {
-   "id": "23e5468e72b626d8",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "3C",
-   "title": "iPhone Duo、18 Pro來襲！電信、通路優惠懶人包　這裡回饋上看57700 元",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lUlFXbEJvdkxsQnpDWVg3bGl4d2JVV2xlWEwwRi1aYlEycGNRNUxNaUR6TGFfTjU3c0RKNHlCV3YwOXBDLWQtSdIBTEFVX3lxTE1fTXJhT3BUekkxamN4Z2NqMjd2V3FwLUJibkJaNFQwVUFCMDhmRjQ2RjBIclBsMjF6Rm1veTdheWV1OGR0Q0UtNERoMzY?oc=5",
-   "published": "2026-11-26T18:03+08:00",
-   "expires": null,
-   "extra": "三立新聞",
-   "src": "新聞：蝦皮"
   },
   {
    "id": "9d16683a8d703ac5",
