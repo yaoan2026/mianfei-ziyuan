@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:01+08:00",
+ "updated": "2026-11-28T09:21+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 3
+   "count": 4
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 5
+   "count": 6
   },
   "新聞：3C": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 10
   },
   "PTT 禮券板": {
    "ok": true,
