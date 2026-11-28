@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-28T12:01+08:00",
+ "updated": "2026-11-28T15:20+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 3
+   "count": 8
   },
   "中文課程/講座": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 5
+   "count": 4
   },
   "新聞：3C": {
    "ok": true,
-   "count": 13
+   "count": 15
   },
   "PTT 禮券板": {
    "ok": true,
@@ -28,15 +28,51 @@
  },
  "items": [
   {
+   "id": "af067e2ca47e6cf3",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "Conflict Resolution in Cross-Functional AI Projects",
+   "url": "https://www.couponami.com/business/conflict-resolution-in-cross-functional-ai-projects",
+   "published": "2026-11-28T15:20+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
+   "id": "91d39403d061a87b",
+   "source": "Udemy",
+   "category": "課程",
+   "tag": "AI",
+   "title": "AI Literacy and EU AI Act Compliance",
+   "url": "https://www.couponami.com/business/ai-literacy-and-eu-ai-act-compliance",
+   "published": "2026-11-28T15:20+08:00",
+   "expires": null,
+   "extra": "Udemy 100% OFF · English",
+   "src": "Udemy 課程"
+  },
+  {
    "id": "9c9882ff56cc42b3",
    "source": "新聞",
    "category": "優惠",
    "tag": "3C",
    "title": "2026 好市多黑五 11/27 優惠清單！MSI 筆電省 1.39 萬、TCL 75 吋電視省",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PenlTNmNGbncyTENsZzNnMHJ5aHhnUk9XR1pELVFXNk1yZ0NxOW5tcVo2Um9uaWExUFJUcDBXd1M4cmdOemZvMU1NQ3M?oc=5",
-   "published": "2026-11-28T11:45+08:00",
+   "published": "2026-11-28T14:54+08:00",
    "expires": null,
    "extra": "蘋果仁",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "b51b1ac7d1bab02c",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五周末優惠！Dyson吸塵器省800元　GODIVA冰淇淋下殺",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lNVR3dFQ1MGtoQ0ZjLU1YTTJSV0EtRWxUNjU1SHpsR0xrdVZIaThXLV9KWjVWZVphczVNN21SMDZlS2FoZ0lzZXpOcE1pSEtkQ2ZFNXVOY0VSZ2FJR2fSAUtBVV95cUxPUGFoc2k1ZWJaS3dNQ3FGYk9raTdRRjkwSkNzN29udjNUdjNnMHozTDNOX3hPUTFYcnFINmZBTlE0a2lTU2J3OFVhQ3c?oc=5",
+   "published": "2026-11-28T12:26+08:00",
+   "expires": null,
+   "extra": "ETtoday新聞雲",
    "src": "新聞：3C"
   },
   {
@@ -61,6 +97,30 @@
    "published": "2026-11-28T07:50+08:00",
    "expires": null,
    "extra": "三立新聞",
+   "src": "新聞：蝦皮"
+  },
+  {
+   "id": "ec12c392185a6494",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "手機特價快閃！iPhone Duo現省3010元 三星S26+下殺近萬元",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qZU5SLW9nRDNlMlhYa2N3TTBtWV94alpVUTdrODk1bHRMSUVIYXZJSXhfTTg1VUtNcndLMFQtYjJCRXJuc0ZvUmtqY1dRbWNWYXdHWHpZN2ttaVpRREJ30gFfQVVfeXFMT2plTlItb2dEM2UyWFhrY3dNMG1ZX3hqWlVRN2s4OTVsdExJRUhhdklJeF9NODVVS01yd0swVC1iMkJFcm5zRm9Sa2pjV1FtY1Zhd0dYelk3a21pWlFEQnc?oc=5",
+   "published": "2026-11-28T07:50+08:00",
+   "expires": null,
+   "extra": "udn科技玩家",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "3c7a57c67fa88c11",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "蝦皮",
+   "title": "2026蝦皮刷卡攻略》15張信用卡推薦，購物最高享10%回饋！",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvNFFJNlBUQm1aUGRtN3VIdGlNNEoweUpuUGVBcmNlSGU1LUdLT2xvNndyZ3VXN2s2MF9rZnNSd1hkM0ZzN1BwMF9XeWxLOU1EV1hiUEFYeUZpSkFaOWc?oc=5",
+   "published": "2026-11-28T07:11+08:00",
+   "expires": null,
+   "extra": "卡優新聞網",
    "src": "新聞：蝦皮"
   },
   {
@@ -182,18 +242,6 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
-  },
-  {
-   "id": "3c7a57c67fa88c11",
-   "source": "新聞",
-   "category": "優惠",
-   "tag": "蝦皮",
-   "title": "2026蝦皮刷卡攻略》15張信用卡推薦，購物最高享10%回饋！",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvNFFJNlBUQm1aUGRtN3VIdGlNNEoweUpuUGVBcmNlSGU1LUdLT2xvNndyZ3VXN2s2MF9rZnNSd1hkM0ZzN1BwMF9XeWxLOU1EV1hiUEFYeUZpSkFaOWc?oc=5",
-   "published": "2026-11-27T16:21+08:00",
-   "expires": null,
-   "extra": "卡優新聞網",
-   "src": "新聞：蝦皮"
   },
   {
    "id": "c2d0b3c5a80fb94b",
@@ -445,6 +493,18 @@
    "published": "2026-11-26T16:32+08:00",
    "expires": null,
    "extra": "UDN",
+   "src": "新聞：3C"
+  },
+  {
+   "id": "cffad2320af8b4f9",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五第5波來了！75吋電視狂省8千、筆電降1.39萬　哈根達斯也特價",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pa19wcGJzX1hVV3VVVmpkNVhIZ0lEeHhCejlwMUtoRUtHOV9RakNEcnJpZEJkZ0pDczNyV1pLYnhXa1EwMWlxZU1JUi3SAUxBVV95cUxOaWtfcHBic19YVVd1VVZqZDVYSGdJRHh4Qno5cDFLaEVLRzlfUWpDRHJyaWRCZGdKQ3MzcldaS2J4V2tRMDFpcWVNSVIt?oc=5",
+   "published": "2026-11-26T16:19+08:00",
+   "expires": null,
+   "extra": "三立新聞",
    "src": "新聞：3C"
   },
   {
