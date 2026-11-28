@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-28T21:05+08:00",
+ "updated": "2026-11-28T23:53+08:00",
  "status": {
   "Udemy 課程": {
    "ok": true,
-   "count": 8
+   "count": 6
   },
   "中文課程/講座": {
    "ok": true,
-   "count": 4
+   "count": 7
   },
   "PTT 省錢板": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "新聞：蝦皮": {
    "ok": true,
-   "count": 7
+   "count": 6
   },
   "新聞：3C": {
    "ok": true,
-   "count": 11
+   "count": 12
   },
   "PTT 禮券板": {
    "ok": true,
@@ -27,6 +27,18 @@
   }
  },
  "items": [
+  {
+   "id": "a1bf130b183bc958",
+   "source": "新聞",
+   "category": "優惠",
+   "tag": "3C",
+   "title": "好市多黑五Day 7優惠來了！M6 Mac mini省3000元日本A4和牛單日特價- 生活",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zamdBZHNXanVObXl4TlBZaV9EaEh2c1RleU5vQzhTY1hnQlBiMEVnSGpneVE1S1dpR3RTdkhxQmhPUm5MbUhCMGMyUEFxS1o3NWFNY2pWVjBwZDBNanBrektVa2VZTjM5U2pDTHVn?oc=5",
+   "published": "2026-11-28T21:20+08:00",
+   "expires": null,
+   "extra": "中時新聞網",
+   "src": "新聞：3C"
+  },
   {
    "id": "785a09679464b6e6",
    "source": "Udemy",
@@ -292,6 +304,18 @@
    "src": "Udemy 課程"
   },
   {
+   "id": "624e4a726a4a5ad7",
+   "source": "中文課程/講座",
+   "category": "課程",
+   "tag": "AI/股票",
+   "title": "BossMind. . 一本護照，四頁紙，三日時間——就將全港最慘嘅生日女主角，變成網民口中嘅「原告變被告」。11月24號，女事主喺Threads出帖喊冤；11月26號傍晚就被入境處喺藍田平田邨拉人，控告三條罪。下次再見到有人喊住話自己係受害人，你會先問證據，定先幫佢鬧人？快啲睇片先啦！\n\nAI 指標交易AI 指標交易#樓市教學\nhttps://signup.hkiei.com/garysir_bossmind\n2026物業及財商免費講座\nhttps://lgltdclass.com/ken_freeclassreg_bmyt/\n短線投資交易分析免費講座\nhttps://signup.hkiei.com/ringo_webinar_bossmind\n炒家精美必備工具與策略\nhttps://signup.hkiei.com/jksir_seminar_bossmind\n\nBe your own boss, keep your mind sharp.\n🌟更多資訊，盡在BossMind\n#BossMind #房地產 #中大 #盛事之都 #畢業禮 #學士 #碩士  #博士 #盛事經濟 #教資會 #大學畢業 #港股 #美股 #樓市",
+   "url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxPTGUtYXJwTzRManBESTF6a2xpcXJwMHNPSUxKNE4xcUZPa050emJTTUZXTjBSQmxVZ09Kc1pjWVR5M0FvV1R1M1lTUFNFYmNFMDh5dl8yLTBWT0RJcWdFMWJXSURmU0NFU19GbmF0NXN0Y3lZdWJ5SlJLampVNHVPTi1rNlFRcS1ycFFqcUpGcXl1Tm5ud2wyTGtHY3lQUXluWGFLZDctbUQ3UEdSaGJ2amUwZHdqcUk5WDFEcWU1S3NkYUNSQWRKUURKS0V2eU5mNkh4NXNsV01mX21ZejBqTFZnZWthWk9oelpFNGRKMVdZSGJjOENLLUJxSmZtM2RtMm0zMVQ0bXdMT3l2ZXRqV2Y2RmxBZ01LaEdoMW1LelhIX0x0YmNqQ01TaUQtY3Njek1wZ2Qwak1wbmdkTGJ0MEVsZ3ZZZWYtNDE3WlJSWDZfTjBpM2ZCS0l5MTdFVGFfU2hPdEVVT2Rnc3lVTFlyRjlDSzBkSjVNNDlELUt5c0k5cUFYNjNzbDlVR0N6bzI1eVhMNVVZRVN2X1dKeTRhc2FabHVCZWt6NzJrLTRWbUFJZ21mR2ZKVG1GdU5FYjUxZ0szanNoZG1XRm9GVDdWQ055Ykc5bW1mWURTcWR1UUo4RE1NX3ZSeUZOVVZJbUloc1NIckpsOFNWb2U5QUtqSjNtUi11Q0M5aUNybGtZbEZPYmNzUjMwY3lHOGdPVUtYNXdqVVF6MnhvdzhibENlTXlrcFhJak4xNS1NUVhEZmJtRkVkNzl2VHZzWWwzRUJkaHpTVmhDSDZmZjVEdmFJcVRyeWNfclhxRHUtUUlPVEtUYlJscWFUR1lWMzFJVEFkT2VjMzFLNE44djFkUVlOWHE4SkN1WUFSV05WSFU2aGdodUNTNDlyd2QzMlZ2OEhXZzFBQ3ZwZVRUb29Wd2NfNUpvMDJMUmUyTGVIa2V5LUtMQXlaYjhxMVlYWWc1MUVYZVJNUlJZVkJfQlFza2daOEVrRDBxNFVHTm1oSVBwY0UzU1A0NUJFNkZKcXpWM2ZEY3B5Rnc5cW0wcjhIQnJBTXZyUjBGY0FRbzRYZllWWmhIZXloQXNIMUV0NmxsX1BlYXoxWDZyN0VqN0wyU3V1aTdBZ2h0bjdUcnF3VFBDbjR4UW03Y0R3LTBqSGgwYXNUc3lsNTNXQ3pranpTZC11d3pKLWxtZVdjcHRxQXRxaG53Zw?oc=5",
+   "published": "2026-11-27T16:45+08:00",
+   "expires": null,
+   "extra": "Facebook",
+   "src": "中文課程/講座"
+  },
+  {
    "id": "c2d0b3c5a80fb94b",
    "source": "新聞",
    "category": "優惠",
@@ -458,6 +482,18 @@
    "expires": null,
    "extra": "Udemy 100% OFF · English",
    "src": "Udemy 課程"
+  },
+  {
+   "id": "c1a709f77ebdf54c",
+   "source": "中文課程/講座",
+   "category": "課程",
+   "tag": "AI/股票",
+   "title": "BossMind. . HOY《一線搜查》搵八個人實測，三個中招；香港01四個記者實測，兩個中招。有人見到泰文名、商店名，全部用自己張回鄉證做實名認證。最離譜係，有人從來冇開通過，一做實名認證，就見到名下已經有兩個陌生戶口。想知發生咩事！睇片啦！\n\nAI 指標交易AI 指標交易#樓市教學\nhttps://signup.hkiei.com/garysir_bossmind\n2026物業及財商免費講座\nhttps://lgltdclass.com/ken_freeclassreg_bmyt/\n短線投資交易分析免費講座\nhttps://signup.hkiei.com/ringo_webinar_bossmind\n炒家精美必備工具與策略\nhttps://signup.hkiei.com/jksir_seminar_bossmind\n\nBe your own boss, keep your mind sharp.\n🌟更多資訊，盡在BossMind\n#BossMind #房地產 #WeChat #盛事之都 #微信 #人臉識別 #電子錢包  #洗黑錢 #盛事經濟 #回鄉證 #生物特徵 #港股 #美股 #樓市",
+   "url": "https://news.google.com/rss/articles/CBMi_AdBVV95cUxPZndUakVIRHk3TUI5UEZCLTNVd3BkWU5SVEF6dXVBTlM3bXRUS0c4SEFpS1I1ZXVmRHpRWUZGSEl4YkRIc2h4YnVDcHhzaFBxQ3pfcDZOVlZzc1ZkTDBrTEZ6RS1zLTl4Ulc5dXIzeHFqbTNJM0EzZXdpTUpjT2kwdlJ5bXZSY2l0V21HczZYX2tKUU1jc1VQUjRZR2UwUG90NW5wU2NtM1pwdkxlNWh2RGxLYk9kVE1jTEZVU1BqdGJiaXVmak1EZ25ZQ3A1OXp6UjlNVEN3MzJQOGhxQVVyWldSaktEc2VBZ2lhUGVLMjZBaUpBVnpwUXUwa3BxcXVaLUU5aVhCalFSc2hsSmpnZF9hMkw5ODF3R2xmc0MwYjRDSV8xRjFQYTB0ZFBqbjNaZWp6VmtXM1pZcjJJQnBRRDBDbkkzR0lVaWhLTS1GVUNCa0dmMm5oMFZOR09nLXNBUWFCcUgxWEU0eFZnVHR1eXdrMkp2bGdnRU5fQW9xd2NOYXRvYl9TdkI0cUktSGtXWkpMbXhzRWo2ZWl5b0JjNGxIOHU2ZXZhend5cVlxSjI1bFFnRlBHVFc5eUtKNFdPRUdqQWJmY0xqWlkwdjFNbkc5bkhRdFJGNjRFZTB6UVB2VWNyelRxa0dEajNLd1NxZ0VJTFRqLTRSM2xHVm1IQUJqSUNtVkJ1SzluRml0ZERhR2ZrWHB1TWRiMzVlUlFOdVZtX2dtQzE1d01yN1VsNVFsejREYjNoMGloMU9oWTBNbE9mNVFMZTJBNkY4MTh5S0VweEotMDRIXzNNY2hIRnQ3cGpFM1BMc2c1Y3pGckNkQXVMTFpRMjdkSjNVcDBJTFZBNWFCX3JlaWUtQUEzUDVyUkk1Z24tVHZWZWplb05qMTA0aF9zRnljaFdQeTF3LWZKSERWMEhBdmhHa05JaXNNRi14M09wUmNPSHh4RUZ0U0d0OUFjbXhhN2d4dXRyQXlja2NBNHNnWDV2WmpGejQ3clBjRUJob1gxYUE1aFJ3azJlZVlTcDVSZWRWSGNIclNKUTMzOTJ4OG9MY2VadktLS09Oa0RBNGVDVmxZQ3dGNWhYUXJvNGlHUFFzVE53Yk5wUFo4UXc2Zk5TT01yNzZBblRnUzkzS0xCYUJQRGxSVmZFaW5RVHdoSEdHTko4cFhZVlNkRHNZV1ZKY3lKNkl6NTZ3UUs4YmNtZWl1YW02SUJXaDJKWWJ3U3dtZDMyQTF1VEZDWTZTSmV5Sm10aHNrX2phcnRoR0ZxRzcwV2Y0bUZiejN6VHF1VENPNGlfWXNlMWJDV1hqOGs1RFl4RjZDbjB2cWl0bEZJQ21XcmdhTmJqREg3UUJkcWg?oc=5",
+   "published": "2026-11-26T22:00+08:00",
+   "expires": null,
+   "extra": "Facebook",
+   "src": "中文課程/講座"
   },
   {
    "id": "ac6494065885cceb",
